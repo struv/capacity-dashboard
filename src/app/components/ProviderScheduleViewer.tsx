@@ -2,16 +2,30 @@
 import React, { useState } from 'react';
 import Papa from 'papaparse';
 
-const ProviderScheduleViewer = () => {
-  const [currentWeekIndex, setCurrentWeekIndex] = useState(0);
-  const [weeks, setWeeks] = useState([]);
-  const [providers, setProviders] = useState([]);
+interface Appointment {
+  date: Date;
+  provider: string;
+  patientCount: number;
+  [key: string]: any; // For other potential fields from CSV
+}
 
-  const processCSV = async (file) => {
+interface WeekData {
+  weekStart: Date;
+  appointments: {
+    [provider: string]: Appointment[];
+  };
+}
+
+const ProviderScheduleViewer: React.FC = () => {
+  const [currentWeekIndex, setCurrentWeekIndex] = useState<number>(0);
+  const [weeks, setWeeks] = useState<WeekData[]>([]);
+  const [providers, setProviders] = useState<string[]>([]);
+
+  const processCSV = async (file: File) => {
     try {
-      const text = await new Promise((resolve) => {
+      const text = await new Promise<string>((resolve) => {
         const reader = new FileReader();
-        reader.onload = (e) => resolve(e.target.result);
+        reader.onload = (e) => resolve(e.target?.result as string);
         reader.readAsText(file);
       });
 
@@ -28,7 +42,7 @@ const ProviderScheduleViewer = () => {
           }));
 
           // Group by week using vanilla JS
-          const groupedByWeek = parsedData.reduce((acc, row) => {
+          const groupedByWeek = parsedData.reduce<{ [key: string]: Appointment[] }>((acc, row) => {
             const date = row.date;
             const day = date.getDay();
             const mondayOffset = day === 0 ? -6 : 1 - day;
@@ -49,7 +63,7 @@ const ProviderScheduleViewer = () => {
           // Create weekly data structure
           const weeklyData = Object.entries(groupedByWeek).map(([weekStart, appointments]) => ({
             weekStart: new Date(weekStart),
-            appointments: appointments.reduce((acc, app) => {
+            appointments: appointments.reduce<{ [key: string]: Appointment[] }>((acc, app) => {
               if (!acc[app.provider]) {
                 acc[app.provider] = [];
               }
@@ -58,7 +72,7 @@ const ProviderScheduleViewer = () => {
             }, {})
           }));
 
-          setWeeks(weeklyData.sort((a, b) => a.weekStart - b.weekStart));
+          setWeeks(weeklyData.sort((a, b) => a.weekStart.getTime() - b.weekStart.getTime()));
           setProviders(uniqueProviders);
         }
       });
@@ -67,7 +81,7 @@ const ProviderScheduleViewer = () => {
     }
   };
 
-  const formatDate = (date) => {
+  const formatDate = (date: Date): string => {
     return new Date(date).toLocaleDateString('en-US', {
       month: 'short',
       day: 'numeric',
@@ -75,13 +89,13 @@ const ProviderScheduleViewer = () => {
     });
   };
 
-  const getWeekRange = (weekStart) => {
+  const getWeekRange = (weekStart: Date): string => {
     const weekEnd = new Date(weekStart);
     weekEnd.setDate(weekStart.getDate() + 6);
     return `${formatDate(weekStart)} - ${formatDate(weekEnd)}`;
   };
 
-  const handleFileUpload = (event) => {
+  const handleFileUpload = (event: React.ChangeEvent<HTMLInputElement>) => {
     const file = event.target.files?.[0];
     if (file) {
       processCSV(file);
