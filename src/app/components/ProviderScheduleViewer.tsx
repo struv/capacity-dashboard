@@ -2,13 +2,10 @@
 import React, { useState } from 'react';
 import Papa from 'papaparse';
 
-interface Appointment {
+interface Appointment extends Record<string, unknown> {
   date: Date;
   provider: string;
   patientCount: number;
-  'Appointment Date': string;
-  'Appointment / Servicing Provider': string;
-  'Patient Count': number;
 }
 
 interface WeekData {
