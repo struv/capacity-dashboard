@@ -15,6 +15,12 @@ interface WeekData {
   };
 }
 
+interface CSVRow {
+  'Appointment Date': string;
+  'Appointment / Servicing Provider': string;
+  'Patient Count': number;
+}
+
 const ProviderScheduleViewer: React.FC = () => {
   const [currentWeekIndex, setCurrentWeekIndex] = useState<number>(0);
   const [weeks, setWeeks] = useState<WeekData[]>([]);
@@ -28,17 +34,17 @@ const ProviderScheduleViewer: React.FC = () => {
         reader.readAsText(file);
       });
 
+      // In processCSV function, update the Papa.parse section:
       Papa.parse(text, {
         header: true,
         dynamicTyping: true,
         skipEmptyLines: true,
-        complete: (results) => {
+        complete: (results: { data: CSVRow[] }) => {
           const parsedData = results.data.map(row => ({
-            ...row,
             date: new Date(row['Appointment Date']),
             provider: row['Appointment / Servicing Provider'],
             patientCount: row['Patient Count']
-          }));
+          } as Appointment));
 
           // Group by week using vanilla JS
           const groupedByWeek = parsedData.reduce<{ [key: string]: Appointment[] }>((acc, row) => {
