@@ -6,7 +6,9 @@ interface Appointment {
   date: Date;
   provider: string;
   patientCount: number;
-  [key: string]: any; // For other potential fields from CSV
+  'Appointment Date': string;
+  'Appointment / Servicing Provider': string;
+  'Patient Count': number;
 }
 
 interface WeekData {
