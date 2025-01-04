@@ -15,11 +15,10 @@ interface RawAppointmentData {
   [key: string]: string | number;
 }
 
-interface Appointment {
+interface Appointment extends Record<string, unknown> {
   date: Date;
   provider: string;
   patientCount: number;
-  [key: string]: any;
 }
 
 interface WeekData {
