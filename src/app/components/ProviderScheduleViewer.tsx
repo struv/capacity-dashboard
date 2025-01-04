@@ -76,6 +76,7 @@ const ProviderScheduleViewer: React.FC = () => {
     const currentDay = today.getDay();
     const mondayOffset = currentDay === 0 ? -6 : 1 - currentDay;
     const currentWeekStart = new Date(today);
+    currentWeekStart.setHours(0, 0, 0, 0);
     currentWeekStart.setDate(today.getDate() + mondayOffset);
     
     setWeeks([{ 
@@ -107,7 +108,8 @@ const ProviderScheduleViewer: React.FC = () => {
 
           // Group by week using vanilla JS
           const groupedByWeek = parsedData.reduce((acc: { [key: string]: Appointment[] }, row: Appointment) => {
-            const date = row.date;
+            const date = new Date(row.date);
+            date.setHours(0, 0, 0, 0);
             const day = date.getDay();
             const mondayOffset = day === 0 ? -6 : 1 - day;
             const startOfWeek = new Date(date);
@@ -233,9 +235,13 @@ const ProviderScheduleViewer: React.FC = () => {
                   <div className="grid grid-cols-7 gap-2">
                     {Array.from({ length: 7 }, (_, i) => {
                       const date = new Date(currentWeek.weekStart);
-                      date.setDate(date.getDate() + i);
+                      date.setDate(date.getDate() + i + 1);
                       const dayAppointments = currentWeek.appointments[provider]?.filter(
-                        app => app.date.toDateString() === date.toDateString()
+                        app => {
+                          const nextDay = new Date(date);
+                          nextDay.setDate(date.getDate()+1);
+                          return app.date.toDateString() === nextDay.toDateString();
+                        }
                       );
                       const patientCount = dayAppointments?.[0]?.patientCount || 0;
                       const holiday = isHoliday(date);
