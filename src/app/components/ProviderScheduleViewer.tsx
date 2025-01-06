@@ -235,12 +235,10 @@ const ProviderScheduleViewer: React.FC = () => {
                   <div className="grid grid-cols-7 gap-2">
                     {Array.from({ length: 7 }, (_, i) => {
                       const date = new Date(currentWeek.weekStart);
-                      date.setDate(date.getDate() + i + 1);
+                      date.setDate(date.getDate() + i);
                       const dayAppointments = currentWeek.appointments[provider]?.filter(
                         app => {
-                          const nextDay = new Date(date);
-                          nextDay.setDate(date.getDate()+1);
-                          return app.date.toDateString() === nextDay.toDateString();
+                          return app.date.toDateString() === date.toDateString();
                         }
                       );
                       const patientCount = dayAppointments?.[0]?.patientCount || 0;
