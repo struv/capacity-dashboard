@@ -2,6 +2,7 @@
 
 import React, { useState, useEffect } from 'react';
 import Papa from 'papaparse';
+const defaultCsvPath = '/data/sched.csv';
 
 interface Holiday {
   name: string;
@@ -86,6 +87,83 @@ const ProviderScheduleViewer: React.FC = () => {
     }]);
   }, []);
 
+  useEffect(() => {
+    // Load default CSV data when component mounts
+    fetch(defaultCsvPath)
+      .then(response => response.text())
+      .then(text => {
+        processRawCSV(text);
+      })
+      .catch(error => console.error('Error loading default CSV:', error));
+  }, []);
+
+  // Extract CSV processing logic into a separate function to reuse it
+  const processRawCSV = (text: string) => {
+    Papa.parse<RawAppointmentData>(text, {
+      header: true,
+      dynamicTyping: true,
+      skipEmptyLines: true,
+      complete: (results) => {
+        const parsedData: Appointment[] = results.data.map(row => ({
+          date: new Date(row['Appointment Date']),
+          provider: row['Appointment / Servicing Provider'],
+          patientCount: row['Patient Count'],
+          ...row
+        }));
+
+        // Group by week using vanilla JS
+        const groupedByWeek = parsedData.reduce((acc: { [key: string]: Appointment[] }, row: Appointment) => {
+          const date = new Date(row.date);
+          date.setHours(0, 0, 0, 0);
+          const day = date.getDay();
+          const mondayOffset = day === 0 ? -6 : 1 - day;
+          const startOfWeek = new Date(date);
+          startOfWeek.setDate(date.getDate() + mondayOffset);
+          const weekKey = startOfWeek.toISOString().split('T')[0];
+          
+          if (!acc[weekKey]) {
+            acc[weekKey] = [];
+          }
+          acc[weekKey].push(row);
+          return acc;
+        }, {});
+
+        const uniqueProviders = Array.from(new Set(parsedData.map(row => row.provider))).filter(Boolean);
+        
+        // Get current week for comparison
+        const today = new Date();
+        const currentDay = today.getDay();
+        const mondayOffset = currentDay === 0 ? -6 : 1 - currentDay;
+        const currentWeekStart = new Date(today);
+        currentWeekStart.setDate(today.getDate() + mondayOffset);
+        const currentWeekKey = currentWeekStart.toISOString().split('T')[0];
+
+        // Create weekly data structure
+        const weeklyData: WeekData[] = Object.entries(groupedByWeek).map(([weekStart, appointments]) => ({
+          weekStart: new Date(weekStart),
+          appointments: appointments.reduce((acc: { [key: string]: Appointment[] }, app) => {
+            if (!acc[app.provider]) {
+              acc[app.provider] = [];
+            }
+            acc[app.provider].push(app);
+            return acc;
+          }, {}),
+          isCurrent: weekStart === currentWeekKey
+        }));
+
+        // Sort weeks and find current week index
+        const sortedWeeks = weeklyData.sort((a, b) => a.weekStart.getTime() - b.weekStart.getTime());
+        const currentWeekIndex = sortedWeeks.findIndex(week => week.isCurrent);
+        
+        setWeeks(sortedWeeks);
+        setProviders(uniqueProviders);
+        if (currentWeekIndex !== -1) {
+          setCurrentWeekIndex(currentWeekIndex);
+        }
+      }
+    });
+  };
+
   const processCSV = async (file: File) => {
     try {
       const text = await new Promise<string>((resolve) => {
@@ -93,70 +171,7 @@ const ProviderScheduleViewer: React.FC = () => {
         reader.onload = (e) => resolve(e.target?.result as string);
         reader.readAsText(file);
       });
-
-      Papa.parse<RawAppointmentData>(text, {
-        header: true,
-        dynamicTyping: true,
-        skipEmptyLines: true,
-        complete: (results) => {
-          const parsedData: Appointment[] = results.data.map(row => ({
-            date: new Date(row['Appointment Date']),
-            provider: row['Appointment / Servicing Provider'],
-            patientCount: row['Patient Count'],
-            ...row
-          }));
-
-          // Group by week using vanilla JS
-          const groupedByWeek = parsedData.reduce((acc: { [key: string]: Appointment[] }, row: Appointment) => {
-            const date = new Date(row.date);
-            date.setHours(0, 0, 0, 0);
-            const day = date.getDay();
-            const mondayOffset = day === 0 ? -6 : 1 - day;
-            const startOfWeek = new Date(date);
-            startOfWeek.setDate(date.getDate() + mondayOffset);
-            const weekKey = startOfWeek.toISOString().split('T')[0];
-            
-            if (!acc[weekKey]) {
-              acc[weekKey] = [];
-            }
-            acc[weekKey].push(row);
-            return acc;
-          }, {});
-
-          const uniqueProviders = Array.from(new Set(parsedData.map(row => row.provider))).filter(Boolean);
-          
-          // Get current week for comparison
-          const today = new Date();
-          const currentDay = today.getDay();
-          const mondayOffset = currentDay === 0 ? -6 : 1 - currentDay;
-          const currentWeekStart = new Date(today);
-          currentWeekStart.setDate(today.getDate() + mondayOffset);
-          const currentWeekKey = currentWeekStart.toISOString().split('T')[0];
-
-          // Create weekly data structure
-          const weeklyData: WeekData[] = Object.entries(groupedByWeek).map(([weekStart, appointments]) => ({
-            weekStart: new Date(weekStart),
-            appointments: appointments.reduce((acc: { [key: string]: Appointment[] }, app) => {
-              if (!acc[app.provider]) {
-                acc[app.provider] = [];
-              }
-              acc[app.provider].push(app);
-              return acc;
-            }, {}),
-            isCurrent: weekStart === currentWeekKey
-          }));
-
-          // Sort weeks and find current week index
-          const sortedWeeks = weeklyData.sort((a, b) => a.weekStart.getTime() - b.weekStart.getTime());
-          const currentWeekIndex = sortedWeeks.findIndex(week => week.isCurrent);
-          
-          setWeeks(sortedWeeks);
-          setProviders(uniqueProviders);
-          if (currentWeekIndex !== -1) {
-            setCurrentWeekIndex(currentWeekIndex);
-          }
-        }
-      });
+      processRawCSV(text);
     } catch (error) {
       console.error('Error processing CSV:', error);
     }
