@@ -34,6 +34,7 @@ const ProviderScheduleViewer: React.FC = () => {
   const [currentWeekIndex, setCurrentWeekIndex] = useState<number>(0);
   const [weeks, setWeeks] = useState<WeekData[]>([]);
   const [providers, setProviders] = useState<string[]>([]);
+  const [fileModifiedDate, setFileModifiedDate] = useState<string>('');
 
   // Rest of the component stays the same...
   const getHolidays = (year: number): Holiday[] => {
@@ -90,8 +91,12 @@ const ProviderScheduleViewer: React.FC = () => {
   useEffect(() => {
     // Load default CSV data when component mounts
     fetch(defaultCsvPath)
-      .then(response => response.text())
-      .then(text => {
+      .then(async response => {
+        const lastModified = response.headers.get('last-modified');
+        if (lastModified) {
+          setFileModifiedDate(new Date(lastModified).toLocaleString());
+        }
+        const text = await response.text();
         processRawCSV(text);
       })
       .catch(error => console.error('Error loading default CSV:', error));
@@ -200,11 +205,44 @@ const ProviderScheduleViewer: React.FC = () => {
 
   const currentWeek = weeks[currentWeekIndex] || { weekStart: new Date(), appointments: {}, isCurrent: false };
 
+  const getPatientCountColor = (count: number): string => {
+    if (count === 0) return 'bg-gray-50';  // neutral color for empty dates
+    if (count >= 20) return 'bg-green-300';  // green for 20+ patients
+    
+    // For counts 1-19, use predefined red intensities
+    const redIntensities: { [key: number]: string } = {
+      1: 'bg-red-200',
+      2: 'bg-red-200',
+      3: 'bg-red-200',
+      4: 'bg-red-100',
+      5: 'bg-red-100',
+      6: 'bg-red-100',
+      7: 'bg-red-100',
+      8: 'bg-red-100',
+      9: 'bg-red-50',
+      10: 'bg-red-50',
+      11: 'bg-red-50',
+      12: 'bg-red-50',
+      13: 'bg-red-50',
+      14: 'bg-red-50',
+      15: 'bg-red-50',
+      16: 'bg-red-50',
+      17: 'bg-red-50',
+      18: 'bg-red-50',
+      19: 'bg-red-50'
+    };
+    
+    return redIntensities[count] || 'bg-red-50';
+  };
+
   return (
     <div className="p-4 w-full max-w-6xl mx-auto">
       <div className="bg-white rounded-lg shadow-md">
         <div className="border-b border-gray-200 p-4">
           <h2 className="text-xl font-semibold text-gray-800">Provider Schedule Viewer</h2>
+          {fileModifiedDate && (
+            <div className="text-sm text-gray-600">Last updated: {fileModifiedDate}</div>
+          )}
           {currentWeek.isCurrent && (
             <span className="text-sm text-green-600 ml-2">Current Week</span>
           )}
@@ -267,8 +305,7 @@ const ProviderScheduleViewer: React.FC = () => {
                           className={`p-2 text-center border rounded relative ${
                             holiday ? 'bg-gray-200' :
                             isWeekend ? 'bg-gray-100' :
-                            patientCount > 0 ? 'bg-blue-50' : 
-                            'bg-gray-50'
+                            getPatientCountColor(patientCount)
                           } ${
                             isToday ? 'ring-2 ring-blue-500' : ''
                           }`}
