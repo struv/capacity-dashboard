@@ -7,7 +7,7 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "ALTMAN, ADRIENNE ",2025-01-09,27
 "ALTMAN, ADRIENNE ",2025-01-10,1
 "ALTMAN, ADRIENNE ",2025-01-13,11
-"ALTMAN, ADRIENNE ",2025-01-16,11
+"ALTMAN, ADRIENNE ",2025-01-16,12
 "ALTMAN, ADRIENNE ",2025-01-20,8
 "ALTMAN, ADRIENNE ",2025-01-20,1
 "ALTMAN, ADRIENNE ",2025-01-23,3
@@ -19,7 +19,7 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "ANARI, FATEMEH ",2025-01-08,19
 "ANARI, FATEMEH ",2025-01-09,1
 "ANARI, FATEMEH ",2025-01-10,11
-"ANARI, FATEMEH ",2025-01-15,9
+"ANARI, FATEMEH ",2025-01-15,10
 "ANARI, FATEMEH ",2025-01-16,1
 "ANARI, FATEMEH ",2025-01-16,1
 "ANARI, FATEMEH ",2025-01-17,3
@@ -50,17 +50,17 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "Arastu, Anwar ",2025-01-15,4
 "Arastu, Anwar ",2025-01-15,27
 "Arastu, Anwar ",2025-01-16,1
-"Arastu, Anwar ",2025-01-16,20
+"Arastu, Anwar ",2025-01-16,23
 "Arastu, Anwar ",2025-01-20,4
-"Arastu, Anwar ",2025-01-20,7
+"Arastu, Anwar ",2025-01-20,8
 "Arastu, Anwar ",2025-01-20,1
 "Arastu, Anwar ",2025-01-21,4
-"Arastu, Anwar ",2025-01-21,8
+"Arastu, Anwar ",2025-01-21,9
 "Arastu, Anwar ",2025-01-22,2
 "Arastu, Anwar ",2025-01-22,10
 "Arastu, Anwar ",2025-01-23,10
 "Arastu, Anwar ",2025-01-27,3
-"Arastu, Anwar ",2025-01-27,3
+"Arastu, Anwar ",2025-01-27,4
 "Arastu, Anwar ",2025-01-28,1
 "Arastu, Anwar ",2025-01-28,5
 "Arastu, Anwar ",2025-01-29,4
@@ -75,7 +75,7 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "Arastu, Vaseema ",2025-01-13,21
 "Arastu, Vaseema ",2025-01-14,1
 "Arastu, Vaseema ",2025-01-14,20
-"Arastu, Vaseema ",2025-01-15,4
+"Arastu, Vaseema ",2025-01-15,5
 "Arastu, Vaseema ",2025-01-16,15
 "Arastu, Vaseema ",2025-01-20,6
 "Arastu, Vaseema ",2025-01-21,1
@@ -88,16 +88,16 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "Arastu, Vaseema ",2025-01-30,4
 "BENJAMIN, HILMA ",2025-01-06,17
 "BENJAMIN, HILMA ",2025-01-07,12
-"BENJAMIN, HILMA ",2025-01-09,13
+"BENJAMIN, HILMA ",2025-01-09,14
 "BENJAMIN, HILMA ",2025-01-10,1
-"BENJAMIN, HILMA ",2025-01-11,16
+"BENJAMIN, HILMA ",2025-01-11,17
 "BENJAMIN, HILMA ",2025-01-13,10
 "BENJAMIN, HILMA ",2025-01-13,1
 "BENJAMIN, HILMA ",2025-01-14,8
 "BENJAMIN, HILMA ",2025-01-14,1
-"BENJAMIN, HILMA ",2025-01-16,2
+"BENJAMIN, HILMA ",2025-01-16,5
 "BENJAMIN, HILMA ",2025-01-17,4
-"BENJAMIN, HILMA ",2025-01-20,4
+"BENJAMIN, HILMA ",2025-01-20,5
 "BENJAMIN, HILMA ",2025-01-20,3
 "BENJAMIN, HILMA ",2025-01-23,1
 "BENJAMIN, HILMA ",2025-01-27,9
@@ -130,9 +130,9 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "Behroozan, Benjamin ",2025-01-08,1
 "Behroozan, Benjamin ",2025-01-08,11
 "Behroozan, Benjamin ",2025-01-09,5
-"Behroozan, Benjamin ",2025-01-10,12
-"Behroozan, Benjamin ",2025-01-13,16
-"Behroozan, Benjamin ",2025-01-14,5
+"Behroozan, Benjamin ",2025-01-10,13
+"Behroozan, Benjamin ",2025-01-13,17
+"Behroozan, Benjamin ",2025-01-14,8
 "Behroozan, Benjamin ",2025-01-15,2
 "Behroozan, Benjamin ",2025-01-16,4
 "Behroozan, Benjamin ",2025-01-17,1
@@ -155,16 +155,16 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "CLARK, TYLER M",2025-01-27,2
 "CLARK, TYLER M",2025-01-28,1
 "Cay, Cecilio ",2025-01-06,13
-"Cay, Cecilio ",2025-01-10,8
+"Cay, Cecilio ",2025-01-10,7
 "Cay, Cecilio ",2025-01-13,3
-"Cay, Cecilio ",2025-01-17,5
+"Cay, Cecilio ",2025-01-17,6
 "Cay, Cecilio ",2025-01-20,1
 "Cay, Cecilio ",2025-01-24,1
 "Cay, Cecilio ",2025-01-27,1
 "Craig, Monique ",2025-01-06,16
 "Craig, Monique ",2025-01-07,19
 "Craig, Monique ",2025-01-09,12
-"Craig, Monique ",2025-01-10,10
+"Craig, Monique ",2025-01-10,12
 "Craig, Monique ",2025-01-13,8
 "Craig, Monique ",2025-01-14,4
 "Craig, Monique ",2025-01-16,2
@@ -227,7 +227,7 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "DE SILVA, JANESRI ",2025-01-15,1
 "DE SILVA, JANESRI ",2025-01-15,2
 "DE SILVA, JANESRI ",2025-01-15,2
-"DE SILVA, JANESRI ",2025-01-15,8
+"DE SILVA, JANESRI ",2025-01-15,9
 "DE SILVA, JANESRI ",2025-01-15,2
 "DE SILVA, JANESRI ",2025-01-15,3
 "DE SILVA, JANESRI ",2025-01-15,5
@@ -366,7 +366,7 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "Dosanjh, Amrita ",2025-01-08,2
 "Dosanjh, Amrita ",2025-01-09,3
 "Dosanjh, Amrita ",2025-01-09,6
-"Dosanjh, Amrita ",2025-01-10,13
+"Dosanjh, Amrita ",2025-01-10,14
 "Dosanjh, Amrita ",2025-01-13,19
 "Dosanjh, Amrita ",2025-01-14,4
 "Dosanjh, Amrita ",2025-01-15,4
@@ -380,8 +380,8 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "Dosanjh, Amrita ",2025-01-30,1
 "FINEBERG, MARTIN ",2025-01-06,29
 "FINEBERG, MARTIN ",2025-01-08,13
-"FINEBERG, MARTIN ",2025-01-10,20
-"FINEBERG, MARTIN ",2025-01-13,12
+"FINEBERG, MARTIN ",2025-01-10,22
+"FINEBERG, MARTIN ",2025-01-13,13
 "FINEBERG, MARTIN ",2025-01-15,2
 "FINEBERG, MARTIN ",2025-01-17,4
 "FINEBERG, MARTIN ",2025-01-20,2
@@ -391,18 +391,18 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "FINEBERG, MARTIN ",2025-01-29,3
 "FINEBERG, MARTIN ",2025-01-31,1
 "FURMULY, ROHINA ",2025-01-07,24
-"FURMULY, ROHINA ",2025-01-09,17
+"FURMULY, ROHINA ",2025-01-09,15
 "FURMULY, ROHINA ",2025-01-10,7
-"FURMULY, ROHINA ",2025-01-14,2
+"FURMULY, ROHINA ",2025-01-14,5
 "FURMULY, ROHINA ",2025-01-17,2
 "FURMULY, ROHINA ",2025-01-23,3
 "FURMULY, ROHINA ",2025-01-30,1
 "Frandjian, Lousine ",2025-01-06,13
 "Frandjian, Lousine ",2025-01-13,9
-"Frandjian, Lousine ",2025-01-15,2
+"Frandjian, Lousine ",2025-01-15,3
 "Frandjian, Lousine ",2025-01-17,2
 "Frandjian, Lousine ",2025-01-20,2
-"Frandjian, Lousine ",2025-01-24,1
+"Frandjian, Lousine ",2025-01-24,2
 "Frandjian, Lousine ",2025-01-27,8
 "Frandjian, Lousine ",2025-01-29,2
 "Frandjian, Lousine ",2025-01-31,1
@@ -413,14 +413,14 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "Gabay, Ruth ",2025-01-14,9
 "Gabay, Ruth ",2025-01-15,1
 "Gancayco, Joseph ",2025-01-23,1
-"Garcia, Luis ",2025-01-11,7
+"Garcia, Luis ",2025-01-11,10
 "Garcia, Luis ",2025-01-18,1
 "Garcia, Luis ",2025-01-18,2
 "Garcia, Luis ",2025-01-25,5
 "Genjoyan, Tatiana ",2025-01-06,15
 "Genjoyan, Tatiana ",2025-01-07,12
-"Genjoyan, Tatiana ",2025-01-09,18
-"Genjoyan, Tatiana ",2025-01-10,4
+"Genjoyan, Tatiana ",2025-01-09,21
+"Genjoyan, Tatiana ",2025-01-10,5
 "Genjoyan, Tatiana ",2025-01-13,2
 "Genjoyan, Tatiana ",2025-01-14,2
 "Genjoyan, Tatiana ",2025-01-17,3
@@ -432,9 +432,11 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "Gutierrez, Lisa ",2025-01-09,2
 "Gutierrez, Lisa ",2025-01-13,1
 "Gutierrez, Lisa ",2025-01-14,1
+"Gutierrez, Lisa ",2025-01-16,1
 "Gutierrez, Lisa ",2025-01-23,2
 "Hakoopian, Roobina ",2025-01-06,17
 "Hakoopian, Roobina ",2025-01-07,7
+"Hakoopian, Roobina ",2025-01-09,1
 "Halavi, Delaram ",2025-01-07,7
 "Halavi, Delaram ",2025-01-09,1
 "Halavi, Delaram ",2025-01-16,1
@@ -459,7 +461,7 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "Juarez Morales, LaurieBeth ",2025-01-08,11
 "Juarez Morales, LaurieBeth ",2025-01-09,32
 "Juarez Morales, LaurieBeth ",2025-01-10,28
-"Juarez Morales, LaurieBeth ",2025-01-13,15
+"Juarez Morales, LaurieBeth ",2025-01-13,16
 "Juarez Morales, LaurieBeth ",2025-01-14,10
 "Juarez Morales, LaurieBeth ",2025-01-14,2
 "Juarez Morales, LaurieBeth ",2025-01-15,5
@@ -485,7 +487,7 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "Keynigshteyn, Rena ",2025-01-08,19
 "Keynigshteyn, Rena ",2025-01-10,1
 "Keynigshteyn, Rena ",2025-01-13,11
-"Keynigshteyn, Rena ",2025-01-14,9
+"Keynigshteyn, Rena ",2025-01-14,10
 "Keynigshteyn, Rena ",2025-01-15,1
 "Keynigshteyn, Rena ",2025-01-15,6
 "Keynigshteyn, Rena ",2025-01-20,8
@@ -506,8 +508,8 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "Lam, Sylvia ",2025-01-06,28
 "Lam, Sylvia ",2025-01-07,25
 "Lam, Sylvia ",2025-01-09,9
-"Lam, Sylvia ",2025-01-10,16
-"Lam, Sylvia ",2025-01-13,13
+"Lam, Sylvia ",2025-01-10,14
+"Lam, Sylvia ",2025-01-13,16
 "Lam, Sylvia ",2025-01-14,3
 "Lam, Sylvia ",2025-01-16,12
 "Lam, Sylvia ",2025-01-17,6
@@ -541,7 +543,7 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "Lopez, Cristina Ruiz",2025-01-07,1
 "Lopez, Cristina Ruiz",2025-01-13,10
 "Lopez, Cristina Ruiz",2025-01-14,1
-"Lopez, Cristina Ruiz",2025-01-14,5
+"Lopez, Cristina Ruiz",2025-01-14,6
 "Lopez, Cristina Ruiz",2025-01-20,1
 "Lopez, Cristina Ruiz",2025-01-21,1
 "Lopez, Cristina Ruiz",2025-01-28,1
@@ -551,7 +553,7 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "MILLET, VICTORIA ",2025-01-31,4
 "McGuire, Casie ",2025-01-09,4
 "McGuire, Casie ",2025-01-13,11
-"McGuire, Casie ",2025-01-15,2
+"McGuire, Casie ",2025-01-15,3
 "McGuire, Casie ",2025-01-16,1
 "McGuire, Casie ",2025-01-22,2
 "McGuire, Casie ",2025-01-27,1
@@ -559,8 +561,8 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "Michels, Savannah ",2025-01-06,26
 "Michels, Savannah ",2025-01-07,19
 "Michels, Savannah ",2025-01-08,9
-"Michels, Savannah ",2025-01-09,17
-"Michels, Savannah ",2025-01-10,10
+"Michels, Savannah ",2025-01-09,18
+"Michels, Savannah ",2025-01-10,12
 "Michels, Savannah ",2025-01-13,11
 "Michels, Savannah ",2025-01-14,7
 "Michels, Savannah ",2025-01-15,5
@@ -579,9 +581,9 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "NAT, NARINDAR ",2025-01-06,31
 "NAT, NARINDAR ",2025-01-07,28
 "NAT, NARINDAR ",2025-01-08,16
-"NAT, NARINDAR ",2025-01-09,18
+"NAT, NARINDAR ",2025-01-09,19
 "NAT, NARINDAR ",2025-01-10,14
-"NAT, NARINDAR ",2025-01-11,28
+"NAT, NARINDAR ",2025-01-11,30
 "NAT, NARINDAR ",2025-01-13,6
 "NAT, NARINDAR ",2025-01-14,3
 "NAT, NARINDAR ",2025-01-17,4
@@ -618,7 +620,7 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "Patino, Cecilia ",2025-01-10,1
 "Patino, Cecilia ",2025-01-13,17
 "Patino, Cecilia ",2025-01-14,13
-"Patino, Cecilia ",2025-01-15,4
+"Patino, Cecilia ",2025-01-15,5
 "Patino, Cecilia ",2025-01-16,3
 "Patino, Cecilia ",2025-01-17,5
 "Patino, Cecilia ",2025-01-20,5
@@ -631,14 +633,14 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "Petalver, Oliver ",2025-01-07,29
 "Petalver, Oliver ",2025-01-08,13
 "Petalver, Oliver ",2025-01-09,4
-"Petalver, Oliver ",2025-01-10,25
+"Petalver, Oliver ",2025-01-10,27
 "Petalver, Oliver ",2025-01-11,1
 "Petalver, Oliver ",2025-01-13,17
 "Petalver, Oliver ",2025-01-14,6
-"Petalver, Oliver ",2025-01-16,2
+"Petalver, Oliver ",2025-01-16,3
 "Petalver, Oliver ",2025-01-17,11
 "Petalver, Oliver ",2025-01-20,20
-"Petalver, Oliver ",2025-01-21,4
+"Petalver, Oliver ",2025-01-21,5
 "Petalver, Oliver ",2025-01-23,1
 "Petalver, Oliver ",2025-01-24,3
 "Petalver, Oliver ",2025-01-25,1
@@ -647,8 +649,8 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "Petalver, Oliver ",2025-01-29,3
 "Petalver, Oliver ",2025-01-30,2
 "Petalver, Oliver ",2025-01-31,1
-"Pison, Tisha ",2025-01-08,23
-"Pison, Tisha ",2025-01-09,31
+"Pison, Tisha ",2025-01-08,22
+"Pison, Tisha ",2025-01-09,38
 "Pison, Tisha ",2025-01-15,4
 "Pison, Tisha ",2025-01-16,6
 "Pison, Tisha ",2025-01-22,1
@@ -656,8 +658,8 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "REYES, TRISH ",2025-01-06,8
 "REYES, TRISH ",2025-01-07,9
 "REYES, TRISH ",2025-01-08,2
-"REYES, TRISH ",2025-01-09,17
-"REYES, TRISH ",2025-01-10,2
+"REYES, TRISH ",2025-01-09,19
+"REYES, TRISH ",2025-01-10,3
 "RODRIGUEZ, BARBARA ",2025-01-06,26
 "RODRIGUEZ, BARBARA ",2025-01-13,12
 "RODRIGUEZ, BARBARA ",2025-01-16,6
@@ -673,9 +675,9 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "SHELAT, PALAK ",2025-01-11,1
 "SHELAT, PALAK ",2025-01-14,7
 "SHELAT, PALAK ",2025-01-15,5
-"SHELAT, PALAK ",2025-01-16,10
+"SHELAT, PALAK ",2025-01-16,11
 "SHELAT, PALAK ",2025-01-17,1
-"SHELAT, PALAK ",2025-01-18,5
+"SHELAT, PALAK ",2025-01-18,6
 "SHELAT, PALAK ",2025-01-23,5
 "SHELAT, PALAK ",2025-01-23,1
 "SHELAT, PALAK ",2025-01-24,1
@@ -686,17 +688,17 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "SNYDER, MARK ",2025-01-06,1
 "SNYDER, MARK ",2025-01-07,25
 "SNYDER, MARK ",2025-01-08,26
-"SNYDER, MARK ",2025-01-09,24
-"SNYDER, MARK ",2025-01-10,19
-"SNYDER, MARK ",2025-01-13,5
+"SNYDER, MARK ",2025-01-09,20
+"SNYDER, MARK ",2025-01-10,21
+"SNYDER, MARK ",2025-01-13,6
 "SNYDER, MARK ",2025-01-14,3
-"SNYDER, MARK ",2025-01-15,9
+"SNYDER, MARK ",2025-01-15,12
 "SNYDER, MARK ",2025-01-16,6
-"SNYDER, MARK ",2025-01-17,9
+"SNYDER, MARK ",2025-01-17,10
 "SNYDER, MARK ",2025-01-20,3
 "SNYDER, MARK ",2025-01-21,1
 "SNYDER, MARK ",2025-01-22,2
-"SNYDER, MARK ",2025-01-23,5
+"SNYDER, MARK ",2025-01-23,6
 "SNYDER, MARK ",2025-01-24,2
 "SNYDER, MARK ",2025-01-27,3
 "SNYDER, MARK ",2025-01-29,2
@@ -706,7 +708,7 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "Saenz, Erik ",2025-01-06,28
 "Saenz, Erik ",2025-01-07,28
 "Saenz, Erik ",2025-01-08,11
-"Saenz, Erik ",2025-01-09,15
+"Saenz, Erik ",2025-01-09,21
 "Saenz, Erik ",2025-01-10,14
 "Saenz, Erik ",2025-01-13,9
 "Saenz, Erik ",2025-01-14,6
@@ -720,16 +722,17 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "Saenz, Erik ",2025-01-27,5
 "Saenz, Erik ",2025-01-30,4
 "Saenz, Erik ",2025-01-31,1
-"Sahba, Ahoo ",2025-01-11,7
+"Sahba, Ahoo ",2025-01-11,8
 "Sahba, Ahoo ",2025-01-18,4
 "Sahba, Ahoo ",2025-01-25,4
 "Sakhai, Yussef ",2025-01-06,26
 "Sakhai, Yussef ",2025-01-07,17
 "Sakhai, Yussef ",2025-01-09,7
-"Sakhai, Yussef ",2025-01-10,7
-"Sakhai, Yussef ",2025-01-13,5
+"Sakhai, Yussef ",2025-01-10,8
+"Sakhai, Yussef ",2025-01-13,6
 "Sakhai, Yussef ",2025-01-14,6
 "Sakhai, Yussef ",2025-01-16,5
+"Sakhai, Yussef ",2025-01-17,3
 "Sakhai, Yussef ",2025-01-20,2
 "Sakhai, Yussef ",2025-01-21,1
 "Sakhai, Yussef ",2025-01-27,1
@@ -738,9 +741,9 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "Samra, Banpreet ",2025-01-06,33
 "Samra, Banpreet ",2025-01-07,29
 "Samra, Banpreet ",2025-01-08,17
-"Samra, Banpreet ",2025-01-09,24
-"Samra, Banpreet ",2025-01-10,27
-"Samra, Banpreet ",2025-01-13,18
+"Samra, Banpreet ",2025-01-09,25
+"Samra, Banpreet ",2025-01-10,29
+"Samra, Banpreet ",2025-01-13,20
 "Samra, Banpreet ",2025-01-14,11
 "Samra, Banpreet ",2025-01-15,13
 "Samra, Banpreet ",2025-01-17,3
@@ -755,7 +758,7 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "Samra, Banpreet ",2025-01-31,4
 "Sohn, Alea Nicole",2025-01-06,12
 "Sohn, Alea Nicole",2025-01-07,12
-"Sohn, Alea Nicole",2025-01-09,13
+"Sohn, Alea Nicole",2025-01-09,16
 "Sohn, Alea Nicole",2025-01-13,2
 "Sohn, Alea Nicole",2025-01-14,1
 "Sohn, Alea Nicole",2025-01-20,4
@@ -768,11 +771,11 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "Tam, Cze-Ja ",2025-01-06,16
 "Tam, Cze-Ja ",2025-01-07,8
 "Tam, Cze-Ja ",2025-01-08,5
-"Tam, Cze-Ja ",2025-01-09,10
+"Tam, Cze-Ja ",2025-01-09,11
 "Tam, Cze-Ja ",2025-01-13,6
 "Tam, Cze-Ja ",2025-01-14,1
 "Tam, Cze-Ja ",2025-01-15,1
-"Tam, Cze-Ja ",2025-01-16,4
+"Tam, Cze-Ja ",2025-01-16,6
 "Tam, Cze-Ja ",2025-01-21,2
 "Tam, Cze-Ja ",2025-01-23,1
 "Tam, Cze-Ja ",2025-01-27,1
@@ -784,10 +787,10 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "Tamashiro, Victor ",2025-01-08,31
 "Tamashiro, Victor ",2025-01-09,27
 "Tamashiro, Victor ",2025-01-10,24
-"Tamashiro, Victor ",2025-01-13,11
+"Tamashiro, Victor ",2025-01-13,13
 "Tamashiro, Victor ",2025-01-14,2
 "Tamashiro, Victor ",2025-01-15,8
-"Tamashiro, Victor ",2025-01-16,3
+"Tamashiro, Victor ",2025-01-16,4
 "Tamashiro, Victor ",2025-01-17,8
 "Tamashiro, Victor ",2025-01-20,20
 "Tamashiro, Victor ",2025-01-21,5
@@ -804,8 +807,8 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "Taylor, Carol ",2025-01-08,22
 "Taylor, Carol ",2025-01-09,20
 "Taylor, Carol ",2025-01-11,5
-"Taylor, Carol ",2025-01-13,13
-"Taylor, Carol ",2025-01-15,4
+"Taylor, Carol ",2025-01-13,14
+"Taylor, Carol ",2025-01-15,5
 "Taylor, Carol ",2025-01-16,4
 "Taylor, Carol ",2025-01-20,1
 "Taylor, Carol ",2025-01-25,2
@@ -813,8 +816,8 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "Ungs, Carolina ",2025-01-06,35
 "Ungs, Carolina ",2025-01-07,22
 "Ungs, Carolina ",2025-01-08,12
-"Ungs, Carolina ",2025-01-09,17
-"Ungs, Carolina ",2025-01-13,5
+"Ungs, Carolina ",2025-01-09,19
+"Ungs, Carolina ",2025-01-13,7
 "Ungs, Carolina ",2025-01-14,2
 "Ungs, Carolina ",2025-01-15,3
 "Ungs, Carolina ",2025-01-16,6
@@ -830,13 +833,13 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "VARGAS, JOSE ",2025-01-07,31
 "VARGAS, JOSE ",2025-01-08,17
 "VARGAS, JOSE ",2025-01-09,30
-"VARGAS, JOSE ",2025-01-10,27
-"VARGAS, JOSE ",2025-01-13,18
+"VARGAS, JOSE ",2025-01-10,30
+"VARGAS, JOSE ",2025-01-13,21
 "VARGAS, JOSE ",2025-01-14,5
 "VARGAS, JOSE ",2025-01-15,1
 "VARGAS, JOSE ",2025-01-15,10
 "VARGAS, JOSE ",2025-01-16,8
-"VARGAS, JOSE ",2025-01-17,8
+"VARGAS, JOSE ",2025-01-17,9
 "VARGAS, JOSE ",2025-01-20,17
 "VARGAS, JOSE ",2025-01-22,3
 "VARGAS, JOSE ",2025-01-23,3
@@ -847,7 +850,7 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "VARGAS, JOSE ",2025-01-30,2
 "VARGAS, JOSE ",2025-01-31,4
 "Vega, Maria ",2025-01-07,23
-"Vega, Maria ",2025-01-10,19
+"Vega, Maria ",2025-01-10,25
 "Vega, Maria ",2025-01-14,4
 "Vega, Maria ",2025-01-17,12
 "Vega, Maria ",2025-01-21,3
