@@ -1,13 +1,13 @@
 Appointment / Servicing Provider,Appointment Date,Patient Count
-"ALTMAN, ADRIENNE ",2025-01-06,23
-"ALTMAN, ADRIENNE ",2025-01-07,2
+"ALTMAN, ADRIENNE ",2025-01-06,26
+"ALTMAN, ADRIENNE ",2025-01-07,16
 "ALTMAN, ADRIENNE ",2025-01-08,1
 "ALTMAN, ADRIENNE ",2025-01-09,1
 "ALTMAN, ADRIENNE ",2025-01-09,3
-"ALTMAN, ADRIENNE ",2025-01-09,16
+"ALTMAN, ADRIENNE ",2025-01-09,27
 "ALTMAN, ADRIENNE ",2025-01-10,1
-"ALTMAN, ADRIENNE ",2025-01-13,6
-"ALTMAN, ADRIENNE ",2025-01-16,9
+"ALTMAN, ADRIENNE ",2025-01-13,11
+"ALTMAN, ADRIENNE ",2025-01-16,11
 "ALTMAN, ADRIENNE ",2025-01-20,8
 "ALTMAN, ADRIENNE ",2025-01-20,1
 "ALTMAN, ADRIENNE ",2025-01-23,3
@@ -15,14 +15,11 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "ALTMAN, ADRIENNE ",2025-01-27,4
 "ALTMAN, ADRIENNE ",2025-01-27,1
 "ALTMAN, ADRIENNE ",2025-01-30,1
-"ANARI, FATEMEH ",2025-01-07,22
-"ANARI, FATEMEH ",2025-01-07,1
-"ANARI, FATEMEH ",2025-01-08,7
-"ANARI, FATEMEH ",2025-01-10,6
-"ANARI, FATEMEH ",2025-01-10,1
-"ANARI, FATEMEH ",2025-01-13,3
-"ANARI, FATEMEH ",2025-01-14,1
-"ANARI, FATEMEH ",2025-01-15,8
+"ANARI, FATEMEH ",2025-01-07,30
+"ANARI, FATEMEH ",2025-01-08,19
+"ANARI, FATEMEH ",2025-01-09,1
+"ANARI, FATEMEH ",2025-01-10,11
+"ANARI, FATEMEH ",2025-01-15,9
 "ANARI, FATEMEH ",2025-01-16,1
 "ANARI, FATEMEH ",2025-01-16,1
 "ANARI, FATEMEH ",2025-01-17,3
@@ -39,109 +36,113 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "AYALA, ELDER O",2025-01-30,1
 "Aeri, Mercy ",2025-01-27,1
 "Aeri, Mercy ",2025-01-30,1
-"Arastu, Anwar ",2025-01-06,5
-"Arastu, Anwar ",2025-01-06,25
-"Arastu, Anwar ",2025-01-07,6
-"Arastu, Anwar ",2025-01-07,23
+"Arastu, Anwar ",2025-01-06,4
+"Arastu, Anwar ",2025-01-06,27
+"Arastu, Anwar ",2025-01-07,24
 "Arastu, Anwar ",2025-01-08,5
-"Arastu, Anwar ",2025-01-08,25
-"Arastu, Anwar ",2025-01-08,1
+"Arastu, Anwar ",2025-01-08,26
 "Arastu, Anwar ",2025-01-09,1
-"Arastu, Anwar ",2025-01-09,24
+"Arastu, Anwar ",2025-01-09,18
 "Arastu, Anwar ",2025-01-13,3
-"Arastu, Anwar ",2025-01-13,18
+"Arastu, Anwar ",2025-01-13,21
 "Arastu, Anwar ",2025-01-14,4
-"Arastu, Anwar ",2025-01-14,8
+"Arastu, Anwar ",2025-01-14,25
 "Arastu, Anwar ",2025-01-15,4
-"Arastu, Anwar ",2025-01-15,8
+"Arastu, Anwar ",2025-01-15,27
 "Arastu, Anwar ",2025-01-16,1
-"Arastu, Anwar ",2025-01-16,8
+"Arastu, Anwar ",2025-01-16,20
 "Arastu, Anwar ",2025-01-20,4
-"Arastu, Anwar ",2025-01-20,2
+"Arastu, Anwar ",2025-01-20,7
 "Arastu, Anwar ",2025-01-20,1
 "Arastu, Anwar ",2025-01-21,4
 "Arastu, Anwar ",2025-01-21,8
 "Arastu, Anwar ",2025-01-22,2
 "Arastu, Anwar ",2025-01-22,10
-"Arastu, Anwar ",2025-01-23,9
+"Arastu, Anwar ",2025-01-23,10
 "Arastu, Anwar ",2025-01-27,3
-"Arastu, Anwar ",2025-01-27,2
+"Arastu, Anwar ",2025-01-27,3
 "Arastu, Anwar ",2025-01-28,1
 "Arastu, Anwar ",2025-01-28,5
 "Arastu, Anwar ",2025-01-29,4
 "Arastu, Anwar ",2025-01-30,2
 "Arastu, Anwar ",2025-01-30,7
 "Arastu, Vaseema ",2025-01-06,2
-"Arastu, Vaseema ",2025-01-06,27
-"Arastu, Vaseema ",2025-01-07,2
-"Arastu, Vaseema ",2025-01-07,21
-"Arastu, Vaseema ",2025-01-08,16
+"Arastu, Vaseema ",2025-01-06,29
+"Arastu, Vaseema ",2025-01-07,19
+"Arastu, Vaseema ",2025-01-08,15
 "Arastu, Vaseema ",2025-01-09,1
-"Arastu, Vaseema ",2025-01-09,13
-"Arastu, Vaseema ",2025-01-13,6
+"Arastu, Vaseema ",2025-01-09,26
+"Arastu, Vaseema ",2025-01-13,21
 "Arastu, Vaseema ",2025-01-14,1
-"Arastu, Vaseema ",2025-01-14,5
-"Arastu, Vaseema ",2025-01-15,2
-"Arastu, Vaseema ",2025-01-16,3
+"Arastu, Vaseema ",2025-01-14,20
+"Arastu, Vaseema ",2025-01-15,4
+"Arastu, Vaseema ",2025-01-16,15
 "Arastu, Vaseema ",2025-01-20,6
+"Arastu, Vaseema ",2025-01-21,1
 "Arastu, Vaseema ",2025-01-22,2
 "Arastu, Vaseema ",2025-01-22,1
 "Arastu, Vaseema ",2025-01-23,1
-"Arastu, Vaseema ",2025-01-23,1
-"Arastu, Vaseema ",2025-01-27,2
-"Arastu, Vaseema ",2025-01-30,2
+"Arastu, Vaseema ",2025-01-23,2
+"Arastu, Vaseema ",2025-01-27,4
+"Arastu, Vaseema ",2025-01-28,1
+"Arastu, Vaseema ",2025-01-30,4
 "BENJAMIN, HILMA ",2025-01-06,17
-"BENJAMIN, HILMA ",2025-01-07,8
-"BENJAMIN, HILMA ",2025-01-09,5
+"BENJAMIN, HILMA ",2025-01-07,12
+"BENJAMIN, HILMA ",2025-01-09,13
 "BENJAMIN, HILMA ",2025-01-10,1
-"BENJAMIN, HILMA ",2025-01-13,3
+"BENJAMIN, HILMA ",2025-01-11,16
+"BENJAMIN, HILMA ",2025-01-13,10
 "BENJAMIN, HILMA ",2025-01-13,1
+"BENJAMIN, HILMA ",2025-01-14,8
 "BENJAMIN, HILMA ",2025-01-14,1
-"BENJAMIN, HILMA ",2025-01-14,1
-"BENJAMIN, HILMA ",2025-01-16,1
+"BENJAMIN, HILMA ",2025-01-16,2
+"BENJAMIN, HILMA ",2025-01-17,4
 "BENJAMIN, HILMA ",2025-01-20,4
 "BENJAMIN, HILMA ",2025-01-20,3
+"BENJAMIN, HILMA ",2025-01-23,1
 "BENJAMIN, HILMA ",2025-01-27,9
 "BENJAMIN, HILMA ",2025-01-27,1
 "BENJAMIN, HILMA ",2025-01-28,1
-"BHATT, BRIAN ",2025-01-10,1
 "BHATT, BRIAN ",2025-01-17,2
 "BHATT, BRIAN ",2025-01-24,3
-"BRANDT, EMILY ",2025-01-07,17
+"BRANDT, EMILY ",2025-01-07,24
 "BRANDT, EMILY ",2025-01-07,1
-"BRANDT, EMILY ",2025-01-08,10
-"BRANDT, EMILY ",2025-01-09,6
-"BRANDT, EMILY ",2025-01-10,13
+"BRANDT, EMILY ",2025-01-08,21
+"BRANDT, EMILY ",2025-01-09,8
+"BRANDT, EMILY ",2025-01-10,25
 "BRANDT, EMILY ",2025-01-13,1
-"BRANDT, EMILY ",2025-01-14,14
-"BRANDT, EMILY ",2025-01-15,2
-"BRANDT, EMILY ",2025-01-16,5
-"BRANDT, EMILY ",2025-01-17,8
+"BRANDT, EMILY ",2025-01-14,22
+"BRANDT, EMILY ",2025-01-15,6
+"BRANDT, EMILY ",2025-01-16,7
+"BRANDT, EMILY ",2025-01-17,16
 "BRANDT, EMILY ",2025-01-21,12
 "BRANDT, EMILY ",2025-01-22,6
-"BRANDT, EMILY ",2025-01-23,3
-"BRANDT, EMILY ",2025-01-24,3
+"BRANDT, EMILY ",2025-01-23,4
+"BRANDT, EMILY ",2025-01-24,4
 "BRANDT, EMILY ",2025-01-27,3
-"BRANDT, EMILY ",2025-01-28,5
+"BRANDT, EMILY ",2025-01-28,7
 "BRANDT, EMILY ",2025-01-29,1
 "BRANDT, EMILY ",2025-01-30,1
 "BRANDT, EMILY ",2025-01-31,4
-"Behroozan, Benjamin ",2025-01-06,22
+"Behroozan, Benjamin ",2025-01-06,23
 "Behroozan, Benjamin ",2025-01-07,1
-"Behroozan, Benjamin ",2025-01-07,18
+"Behroozan, Benjamin ",2025-01-07,13
+"Behroozan, Benjamin ",2025-01-08,1
 "Behroozan, Benjamin ",2025-01-08,11
 "Behroozan, Benjamin ",2025-01-09,5
 "Behroozan, Benjamin ",2025-01-10,12
-"Behroozan, Benjamin ",2025-01-13,8
-"Behroozan, Benjamin ",2025-01-14,2
-"Behroozan, Benjamin ",2025-01-15,1
-"Behroozan, Benjamin ",2025-01-16,1
-"Behroozan, Benjamin ",2025-01-17,7
-"Behroozan, Benjamin ",2025-01-20,5
+"Behroozan, Benjamin ",2025-01-13,16
+"Behroozan, Benjamin ",2025-01-14,5
+"Behroozan, Benjamin ",2025-01-15,2
+"Behroozan, Benjamin ",2025-01-16,4
+"Behroozan, Benjamin ",2025-01-17,1
+"Behroozan, Benjamin ",2025-01-17,2
+"Behroozan, Benjamin ",2025-01-20,6
 "Behroozan, Benjamin ",2025-01-21,2
 "Behroozan, Benjamin ",2025-01-21,2
 "Behroozan, Benjamin ",2025-01-22,3
 "Behroozan, Benjamin ",2025-01-22,1
+"Behroozan, Benjamin ",2025-01-24,2
 "Behroozan, Benjamin ",2025-01-24,2
 "Behroozan, Benjamin ",2025-01-25,1
 "Behroozan, Benjamin ",2025-01-27,2
@@ -149,21 +150,25 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "Behroozan, Benjamin ",2025-01-28,2
 "Behroozan, Benjamin ",2025-01-29,3
 "Behroozan, Benjamin ",2025-01-30,2
-"Behroozan, Benjamin ",2025-01-31,1
-"CLARK, TYLER M",2025-01-08,1
+"Behroozan, Benjamin ",2025-01-31,2
 "CLARK, TYLER M",2025-01-15,1
 "CLARK, TYLER M",2025-01-27,2
 "CLARK, TYLER M",2025-01-28,1
 "Cay, Cecilio ",2025-01-06,13
-"Cay, Cecilio ",2025-01-13,1
-"Craig, Monique ",2025-01-06,14
-"Craig, Monique ",2025-01-07,9
-"Craig, Monique ",2025-01-09,5
-"Craig, Monique ",2025-01-10,6
-"Craig, Monique ",2025-01-13,3
+"Cay, Cecilio ",2025-01-10,8
+"Cay, Cecilio ",2025-01-13,3
+"Cay, Cecilio ",2025-01-17,5
+"Cay, Cecilio ",2025-01-20,1
+"Cay, Cecilio ",2025-01-24,1
+"Cay, Cecilio ",2025-01-27,1
+"Craig, Monique ",2025-01-06,16
+"Craig, Monique ",2025-01-07,19
+"Craig, Monique ",2025-01-09,12
+"Craig, Monique ",2025-01-10,10
+"Craig, Monique ",2025-01-13,8
 "Craig, Monique ",2025-01-14,4
 "Craig, Monique ",2025-01-16,2
-"Craig, Monique ",2025-01-17,1
+"Craig, Monique ",2025-01-17,4
 "Craig, Monique ",2025-01-20,8
 "Craig, Monique ",2025-01-21,2
 "Craig, Monique ",2025-01-24,1
@@ -172,52 +177,46 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "Craig, Monique ",2025-01-30,5
 "DE SILVA, JANESRI ",2025-01-06,1
 "DE SILVA, JANESRI ",2025-01-06,1
-"DE SILVA, JANESRI ",2025-01-06,19
+"DE SILVA, JANESRI ",2025-01-06,21
 "DE SILVA, JANESRI ",2025-01-06,1
 "DE SILVA, JANESRI ",2025-01-06,2
 "DE SILVA, JANESRI ",2025-01-06,3
 "DE SILVA, JANESRI ",2025-01-06,2
 "DE SILVA, JANESRI ",2025-01-06,1
 "DE SILVA, JANESRI ",2025-01-07,1
-"DE SILVA, JANESRI ",2025-01-07,1
 "DE SILVA, JANESRI ",2025-01-07,4
-"DE SILVA, JANESRI ",2025-01-08,3
-"DE SILVA, JANESRI ",2025-01-08,6
-"DE SILVA, JANESRI ",2025-01-08,3
-"DE SILVA, JANESRI ",2025-01-08,2
 "DE SILVA, JANESRI ",2025-01-08,1
-"DE SILVA, JANESRI ",2025-01-08,2
+"DE SILVA, JANESRI ",2025-01-08,10
+"DE SILVA, JANESRI ",2025-01-08,1
+"DE SILVA, JANESRI ",2025-01-08,1
+"DE SILVA, JANESRI ",2025-01-08,1
 "DE SILVA, JANESRI ",2025-01-09,1
 "DE SILVA, JANESRI ",2025-01-09,1
 "DE SILVA, JANESRI ",2025-01-09,4
 "DE SILVA, JANESRI ",2025-01-09,4
 "DE SILVA, JANESRI ",2025-01-09,1
 "DE SILVA, JANESRI ",2025-01-09,1
-"DE SILVA, JANESRI ",2025-01-09,1
-"DE SILVA, JANESRI ",2025-01-09,6
-"DE SILVA, JANESRI ",2025-01-10,4
-"DE SILVA, JANESRI ",2025-01-10,13
+"DE SILVA, JANESRI ",2025-01-10,3
+"DE SILVA, JANESRI ",2025-01-10,19
 "DE SILVA, JANESRI ",2025-01-10,3
 "DE SILVA, JANESRI ",2025-01-10,2
 "DE SILVA, JANESRI ",2025-01-10,1
-"DE SILVA, JANESRI ",2025-01-10,2
-"DE SILVA, JANESRI ",2025-01-10,3
 "DE SILVA, JANESRI ",2025-01-11,1
 "DE SILVA, JANESRI ",2025-01-11,1
-"DE SILVA, JANESRI ",2025-01-11,5
+"DE SILVA, JANESRI ",2025-01-11,4
 "DE SILVA, JANESRI ",2025-01-11,2
 "DE SILVA, JANESRI ",2025-01-11,4
-"DE SILVA, JANESRI ",2025-01-11,14
+"DE SILVA, JANESRI ",2025-01-11,13
 "DE SILVA, JANESRI ",2025-01-13,1
 "DE SILVA, JANESRI ",2025-01-13,7
-"DE SILVA, JANESRI ",2025-01-13,11
+"DE SILVA, JANESRI ",2025-01-13,15
 "DE SILVA, JANESRI ",2025-01-13,1
 "DE SILVA, JANESRI ",2025-01-13,3
 "DE SILVA, JANESRI ",2025-01-13,1
 "DE SILVA, JANESRI ",2025-01-13,3
 "DE SILVA, JANESRI ",2025-01-13,8
 "DE SILVA, JANESRI ",2025-01-13,5
-"DE SILVA, JANESRI ",2025-01-14,2
+"DE SILVA, JANESRI ",2025-01-13,1
 "DE SILVA, JANESRI ",2025-01-14,2
 "DE SILVA, JANESRI ",2025-01-14,4
 "DE SILVA, JANESRI ",2025-01-14,2
@@ -228,14 +227,13 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "DE SILVA, JANESRI ",2025-01-15,1
 "DE SILVA, JANESRI ",2025-01-15,2
 "DE SILVA, JANESRI ",2025-01-15,2
-"DE SILVA, JANESRI ",2025-01-15,5
+"DE SILVA, JANESRI ",2025-01-15,8
 "DE SILVA, JANESRI ",2025-01-15,2
 "DE SILVA, JANESRI ",2025-01-15,3
 "DE SILVA, JANESRI ",2025-01-15,5
 "DE SILVA, JANESRI ",2025-01-15,2
 "DE SILVA, JANESRI ",2025-01-15,6
 "DE SILVA, JANESRI ",2025-01-15,1
-"DE SILVA, JANESRI ",2025-01-16,1
 "DE SILVA, JANESRI ",2025-01-16,3
 "DE SILVA, JANESRI ",2025-01-16,3
 "DE SILVA, JANESRI ",2025-01-16,13
@@ -245,29 +243,25 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "DE SILVA, JANESRI ",2025-01-16,6
 "DE SILVA, JANESRI ",2025-01-16,3
 "DE SILVA, JANESRI ",2025-01-17,1
-"DE SILVA, JANESRI ",2025-01-17,7
+"DE SILVA, JANESRI ",2025-01-17,1
 "DE SILVA, JANESRI ",2025-01-17,3
-"DE SILVA, JANESRI ",2025-01-17,8
+"DE SILVA, JANESRI ",2025-01-17,10
 "DE SILVA, JANESRI ",2025-01-17,1
 "DE SILVA, JANESRI ",2025-01-17,2
 "DE SILVA, JANESRI ",2025-01-17,2
-"DE SILVA, JANESRI ",2025-01-17,1
 "DE SILVA, JANESRI ",2025-01-17,1
 "DE SILVA, JANESRI ",2025-01-17,6
 "DE SILVA, JANESRI ",2025-01-17,2
 "DE SILVA, JANESRI ",2025-01-18,2
-"DE SILVA, JANESRI ",2025-01-18,2
 "DE SILVA, JANESRI ",2025-01-18,4
 "DE SILVA, JANESRI ",2025-01-18,1
-"DE SILVA, JANESRI ",2025-01-20,2
 "DE SILVA, JANESRI ",2025-01-20,1
 "DE SILVA, JANESRI ",2025-01-20,3
 "DE SILVA, JANESRI ",2025-01-20,2
-"DE SILVA, JANESRI ",2025-01-20,10
+"DE SILVA, JANESRI ",2025-01-20,13
 "DE SILVA, JANESRI ",2025-01-20,4
 "DE SILVA, JANESRI ",2025-01-20,1
 "DE SILVA, JANESRI ",2025-01-20,1
-"DE SILVA, JANESRI ",2025-01-20,4
 "DE SILVA, JANESRI ",2025-01-20,1
 "DE SILVA, JANESRI ",2025-01-20,1
 "DE SILVA, JANESRI ",2025-01-20,3
@@ -276,13 +270,11 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "DE SILVA, JANESRI ",2025-01-20,14
 "DE SILVA, JANESRI ",2025-01-21,1
 "DE SILVA, JANESRI ",2025-01-21,1
-"DE SILVA, JANESRI ",2025-01-21,2
 "DE SILVA, JANESRI ",2025-01-21,1
 "DE SILVA, JANESRI ",2025-01-21,2
 "DE SILVA, JANESRI ",2025-01-22,3
 "DE SILVA, JANESRI ",2025-01-22,1
 "DE SILVA, JANESRI ",2025-01-22,1
-"DE SILVA, JANESRI ",2025-01-22,2
 "DE SILVA, JANESRI ",2025-01-22,1
 "DE SILVA, JANESRI ",2025-01-22,3
 "DE SILVA, JANESRI ",2025-01-22,3
@@ -292,7 +284,6 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "DE SILVA, JANESRI ",2025-01-23,15
 "DE SILVA, JANESRI ",2025-01-23,1
 "DE SILVA, JANESRI ",2025-01-23,11
-"DE SILVA, JANESRI ",2025-01-23,1
 "DE SILVA, JANESRI ",2025-01-23,3
 "DE SILVA, JANESRI ",2025-01-23,7
 "DE SILVA, JANESRI ",2025-01-23,4
@@ -301,7 +292,7 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "DE SILVA, JANESRI ",2025-01-24,4
 "DE SILVA, JANESRI ",2025-01-24,2
 "DE SILVA, JANESRI ",2025-01-24,6
-"DE SILVA, JANESRI ",2025-01-24,7
+"DE SILVA, JANESRI ",2025-01-24,9
 "DE SILVA, JANESRI ",2025-01-24,10
 "DE SILVA, JANESRI ",2025-01-24,3
 "DE SILVA, JANESRI ",2025-01-24,3
@@ -312,12 +303,11 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "DE SILVA, JANESRI ",2025-01-24,2
 "DE SILVA, JANESRI ",2025-01-24,6
 "DE SILVA, JANESRI ",2025-01-24,8
-"DE SILVA, JANESRI ",2025-01-25,6
 "DE SILVA, JANESRI ",2025-01-25,1
 "DE SILVA, JANESRI ",2025-01-25,4
 "DE SILVA, JANESRI ",2025-01-25,5
 "DE SILVA, JANESRI ",2025-01-27,6
-"DE SILVA, JANESRI ",2025-01-27,6
+"DE SILVA, JANESRI ",2025-01-27,5
 "DE SILVA, JANESRI ",2025-01-27,12
 "DE SILVA, JANESRI ",2025-01-27,1
 "DE SILVA, JANESRI ",2025-01-27,4
@@ -337,7 +327,6 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "DE SILVA, JANESRI ",2025-01-28,1
 "DE SILVA, JANESRI ",2025-01-28,1
 "DE SILVA, JANESRI ",2025-01-28,1
-"DE SILVA, JANESRI ",2025-01-29,1
 "DE SILVA, JANESRI ",2025-01-29,7
 "DE SILVA, JANESRI ",2025-01-29,8
 "DE SILVA, JANESRI ",2025-01-29,3
@@ -350,7 +339,6 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "DE SILVA, JANESRI ",2025-01-29,1
 "DE SILVA, JANESRI ",2025-01-29,5
 "DE SILVA, JANESRI ",2025-01-29,2
-"DE SILVA, JANESRI ",2025-01-30,4
 "DE SILVA, JANESRI ",2025-01-30,2
 "DE SILVA, JANESRI ",2025-01-30,11
 "DE SILVA, JANESRI ",2025-01-30,3
@@ -373,12 +361,17 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "DE SILVA, JANESRI ",2025-01-31,5
 "DE SILVA, JANESRI ",2025-01-31,5
 "DE SILVA, JANESRI ",2025-01-31,4
-"Dosanjh, Amrita ",2025-01-06,25
-"Dosanjh, Amrita ",2025-01-07,4
-"Dosanjh, Amrita ",2025-01-09,1
-"Dosanjh, Amrita ",2025-01-10,2
-"Dosanjh, Amrita ",2025-01-13,6
-"Dosanjh, Amrita ",2025-01-17,3
+"Dosanjh, Amrita ",2025-01-06,26
+"Dosanjh, Amrita ",2025-01-07,19
+"Dosanjh, Amrita ",2025-01-08,2
+"Dosanjh, Amrita ",2025-01-09,3
+"Dosanjh, Amrita ",2025-01-09,6
+"Dosanjh, Amrita ",2025-01-10,13
+"Dosanjh, Amrita ",2025-01-13,19
+"Dosanjh, Amrita ",2025-01-14,4
+"Dosanjh, Amrita ",2025-01-15,4
+"Dosanjh, Amrita ",2025-01-16,3
+"Dosanjh, Amrita ",2025-01-17,6
 "Dosanjh, Amrita ",2025-01-20,3
 "Dosanjh, Amrita ",2025-01-21,3
 "Dosanjh, Amrita ",2025-01-22,1
@@ -386,141 +379,154 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "Dosanjh, Amrita ",2025-01-27,1
 "Dosanjh, Amrita ",2025-01-30,1
 "FINEBERG, MARTIN ",2025-01-06,29
-"FINEBERG, MARTIN ",2025-01-08,6
-"FINEBERG, MARTIN ",2025-01-10,6
-"FINEBERG, MARTIN ",2025-01-13,6
+"FINEBERG, MARTIN ",2025-01-08,13
+"FINEBERG, MARTIN ",2025-01-10,20
+"FINEBERG, MARTIN ",2025-01-13,12
 "FINEBERG, MARTIN ",2025-01-15,2
 "FINEBERG, MARTIN ",2025-01-17,4
 "FINEBERG, MARTIN ",2025-01-20,2
 "FINEBERG, MARTIN ",2025-01-21,1
+"FINEBERG, MARTIN ",2025-01-24,1
 "FINEBERG, MARTIN ",2025-01-27,1
 "FINEBERG, MARTIN ",2025-01-29,3
 "FINEBERG, MARTIN ",2025-01-31,1
-"FURMULY, ROHINA ",2025-01-07,7
-"FURMULY, ROHINA ",2025-01-09,7
-"FURMULY, ROHINA ",2025-01-10,1
+"FURMULY, ROHINA ",2025-01-07,24
+"FURMULY, ROHINA ",2025-01-09,17
+"FURMULY, ROHINA ",2025-01-10,7
 "FURMULY, ROHINA ",2025-01-14,2
+"FURMULY, ROHINA ",2025-01-17,2
+"FURMULY, ROHINA ",2025-01-23,3
+"FURMULY, ROHINA ",2025-01-30,1
 "Frandjian, Lousine ",2025-01-06,13
-"Frandjian, Lousine ",2025-01-13,8
-"Frandjian, Lousine ",2025-01-15,1
-"Frandjian, Lousine ",2025-01-17,1
+"Frandjian, Lousine ",2025-01-13,9
+"Frandjian, Lousine ",2025-01-15,2
+"Frandjian, Lousine ",2025-01-17,2
+"Frandjian, Lousine ",2025-01-20,2
 "Frandjian, Lousine ",2025-01-24,1
 "Frandjian, Lousine ",2025-01-27,8
+"Frandjian, Lousine ",2025-01-29,2
+"Frandjian, Lousine ",2025-01-31,1
 "Gabay, Ruth ",2025-01-06,13
-"Gabay, Ruth ",2025-01-07,5
-"Gabay, Ruth ",2025-01-08,3
-"Gabay, Ruth ",2025-01-14,1
-"Gancayco, Joseph ",2025-01-16,1
+"Gabay, Ruth ",2025-01-07,6
+"Gabay, Ruth ",2025-01-08,5
+"Gabay, Ruth ",2025-01-13,5
+"Gabay, Ruth ",2025-01-14,9
+"Gabay, Ruth ",2025-01-15,1
 "Gancayco, Joseph ",2025-01-23,1
-"Garcia, Luis ",2025-01-11,4
+"Garcia, Luis ",2025-01-11,7
 "Garcia, Luis ",2025-01-18,1
 "Garcia, Luis ",2025-01-18,2
-"Garcia, Luis ",2025-01-25,1
-"Genjoyan, Tatiana ",2025-01-06,12
-"Genjoyan, Tatiana ",2025-01-07,5
-"Genjoyan, Tatiana ",2025-01-09,6
-"Genjoyan, Tatiana ",2025-01-10,3
-"Genjoyan, Tatiana ",2025-01-13,1
+"Garcia, Luis ",2025-01-25,5
+"Genjoyan, Tatiana ",2025-01-06,15
+"Genjoyan, Tatiana ",2025-01-07,12
+"Genjoyan, Tatiana ",2025-01-09,18
+"Genjoyan, Tatiana ",2025-01-10,4
+"Genjoyan, Tatiana ",2025-01-13,2
 "Genjoyan, Tatiana ",2025-01-14,2
 "Genjoyan, Tatiana ",2025-01-17,3
 "Genjoyan, Tatiana ",2025-01-21,1
 "Genjoyan, Tatiana ",2025-01-23,3
 "Genjoyan, Tatiana ",2025-01-24,1
 "Genjoyan, Tatiana ",2025-01-27,1
-"Gutierrez, Lisa ",2025-01-07,11
-"Gutierrez, Lisa ",2025-01-09,1
+"Gutierrez, Lisa ",2025-01-07,21
+"Gutierrez, Lisa ",2025-01-09,2
 "Gutierrez, Lisa ",2025-01-13,1
 "Gutierrez, Lisa ",2025-01-14,1
-"Gutierrez, Lisa ",2025-01-23,1
+"Gutierrez, Lisa ",2025-01-23,2
 "Hakoopian, Roobina ",2025-01-06,17
-"Halavi, Delaram ",2025-01-07,1
-"Halavi, Delaram ",2025-01-08,1
+"Hakoopian, Roobina ",2025-01-07,7
+"Halavi, Delaram ",2025-01-07,7
+"Halavi, Delaram ",2025-01-09,1
 "Halavi, Delaram ",2025-01-16,1
-"Hantman, David ",2025-01-09,2
+"Halavi, Delaram ",2025-01-22,1
+"Hantman, David ",2025-01-09,6
 "Hantman, David ",2025-01-13,3
 "Hantman, David ",2025-01-15,1
+"Hantman, David ",2025-01-16,2
 "Hantman, David ",2025-01-20,1
 "Hantman, David ",2025-01-22,1
 "Hantman, David ",2025-01-23,1
 "Hantman, David ",2025-01-27,1
 "Hantman, David ",2025-01-30,1
 "JAZAYERI, AZAM ",2025-01-06,6
-"JAZAYERI, AZAM ",2025-01-07,3
-"JAZAYERI, AZAM ",2025-01-20,2
+"JAZAYERI, AZAM ",2025-01-07,6
+"JAZAYERI, AZAM ",2025-01-13,2
+"JAZAYERI, AZAM ",2025-01-14,2
+"JAZAYERI, AZAM ",2025-01-20,3
 "Juarez Morales, LaurieBeth ",2025-01-06,37
-"Juarez Morales, LaurieBeth ",2025-01-07,29
+"Juarez Morales, LaurieBeth ",2025-01-07,39
 "Juarez Morales, LaurieBeth ",2025-01-07,1
-"Juarez Morales, LaurieBeth ",2025-01-08,6
-"Juarez Morales, LaurieBeth ",2025-01-09,22
-"Juarez Morales, LaurieBeth ",2025-01-10,9
-"Juarez Morales, LaurieBeth ",2025-01-13,6
+"Juarez Morales, LaurieBeth ",2025-01-08,11
+"Juarez Morales, LaurieBeth ",2025-01-09,32
+"Juarez Morales, LaurieBeth ",2025-01-10,28
+"Juarez Morales, LaurieBeth ",2025-01-13,15
+"Juarez Morales, LaurieBeth ",2025-01-14,10
 "Juarez Morales, LaurieBeth ",2025-01-14,2
-"Juarez Morales, LaurieBeth ",2025-01-14,2
-"Juarez Morales, LaurieBeth ",2025-01-15,3
+"Juarez Morales, LaurieBeth ",2025-01-15,5
 "Juarez Morales, LaurieBeth ",2025-01-16,5
 "Juarez Morales, LaurieBeth ",2025-01-16,2
 "Juarez Morales, LaurieBeth ",2025-01-17,9
 "Juarez Morales, LaurieBeth ",2025-01-20,9
-"Juarez Morales, LaurieBeth ",2025-01-21,1
+"Juarez Morales, LaurieBeth ",2025-01-21,4
 "Juarez Morales, LaurieBeth ",2025-01-21,2
-"Juarez Morales, LaurieBeth ",2025-01-22,7
-"Juarez Morales, LaurieBeth ",2025-01-23,7
+"Juarez Morales, LaurieBeth ",2025-01-22,8
+"Juarez Morales, LaurieBeth ",2025-01-23,8
 "Juarez Morales, LaurieBeth ",2025-01-23,1
 "Juarez Morales, LaurieBeth ",2025-01-24,5
 "Juarez Morales, LaurieBeth ",2025-01-27,13
 "Juarez Morales, LaurieBeth ",2025-01-28,4
 "Juarez Morales, LaurieBeth ",2025-01-28,2
-"Juarez Morales, LaurieBeth ",2025-01-29,1
+"Juarez Morales, LaurieBeth ",2025-01-29,4
 "Juarez Morales, LaurieBeth ",2025-01-30,4
 "Juarez Morales, LaurieBeth ",2025-01-30,1
 "Juarez Morales, LaurieBeth ",2025-01-31,3
 "Keynigshteyn, Rena ",2025-01-06,32
-"Keynigshteyn, Rena ",2025-01-07,23
-"Keynigshteyn, Rena ",2025-01-08,8
+"Keynigshteyn, Rena ",2025-01-07,28
+"Keynigshteyn, Rena ",2025-01-08,19
 "Keynigshteyn, Rena ",2025-01-10,1
-"Keynigshteyn, Rena ",2025-01-13,5
-"Keynigshteyn, Rena ",2025-01-14,4
+"Keynigshteyn, Rena ",2025-01-13,11
+"Keynigshteyn, Rena ",2025-01-14,9
 "Keynigshteyn, Rena ",2025-01-15,1
-"Keynigshteyn, Rena ",2025-01-20,7
-"Keynigshteyn, Rena ",2025-01-21,2
+"Keynigshteyn, Rena ",2025-01-15,6
+"Keynigshteyn, Rena ",2025-01-20,8
+"Keynigshteyn, Rena ",2025-01-21,3
 "Keynigshteyn, Rena ",2025-01-22,3
 "Keynigshteyn, Rena ",2025-01-27,7
 "Keynigshteyn, Rena ",2025-01-28,5
 "Keynigshteyn, Rena ",2025-01-29,4
-"Kim, Rebecca ",2025-01-07,1
 "Kim, Rebecca ",2025-01-22,1
 "Kim, Rebecca ",2025-01-27,1
 "Kim, Rebecca ",2025-01-30,2
-"Kim, Yeongbu ",2025-01-06,20
-"Kim, Yeongbu ",2025-01-07,8
-"Kim, Yeongbu ",2025-01-09,2
-"Kim, Yeongbu ",2025-01-10,2
-"Kim, Yeongbu ",2025-01-13,1
-"Kim, Yeongbu ",2025-01-20,2
-"Kim, Yeongbu ",2025-01-27,1
-"Lam, Sylvia ",2025-01-06,27
-"Lam, Sylvia ",2025-01-07,7
+"Kim, Yeongbu ",2025-01-06,22
+"Kim, Yeongbu ",2025-01-07,13
+"Kim, Yeongbu ",2025-01-10,7
+"Kim, Yeongbu ",2025-01-13,2
+"Kim, Yeongbu ",2025-01-20,3
+"Kim, Yeongbu ",2025-01-27,2
+"Lam, Sylvia ",2025-01-06,28
+"Lam, Sylvia ",2025-01-07,25
 "Lam, Sylvia ",2025-01-09,9
-"Lam, Sylvia ",2025-01-10,4
-"Lam, Sylvia ",2025-01-13,10
-"Lam, Sylvia ",2025-01-14,1
-"Lam, Sylvia ",2025-01-16,9
-"Lam, Sylvia ",2025-01-17,3
-"Lam, Sylvia ",2025-01-20,7
+"Lam, Sylvia ",2025-01-10,16
+"Lam, Sylvia ",2025-01-13,13
+"Lam, Sylvia ",2025-01-14,3
+"Lam, Sylvia ",2025-01-16,12
+"Lam, Sylvia ",2025-01-17,6
+"Lam, Sylvia ",2025-01-20,9
 "Lam, Sylvia ",2025-01-21,1
+"Lam, Sylvia ",2025-01-23,1
 "Lam, Sylvia ",2025-01-24,4
 "Lam, Sylvia ",2025-01-27,8
 "Lam, Sylvia ",2025-01-28,2
-"Lam, Sylvia ",2025-01-31,1
+"Lam, Sylvia ",2025-01-30,4
 "Lam, Sylvia ",2025-01-31,3
-"Lee, Erika ",2025-01-07,5
-"Lee, Erika ",2025-01-08,14
-"Lee, Erika ",2025-01-09,8
-"Lee, Erika ",2025-01-10,13
-"Lee, Erika ",2025-01-14,4
-"Lee, Erika ",2025-01-15,9
-"Lee, Erika ",2025-01-16,4
-"Lee, Erika ",2025-01-17,2
+"Lee, Erika ",2025-01-07,19
+"Lee, Erika ",2025-01-08,18
+"Lee, Erika ",2025-01-09,12
+"Lee, Erika ",2025-01-10,19
+"Lee, Erika ",2025-01-14,5
+"Lee, Erika ",2025-01-15,15
+"Lee, Erika ",2025-01-16,6
+"Lee, Erika ",2025-01-17,5
 "Lee, Erika ",2025-01-20,1
 "Lee, Erika ",2025-01-21,4
 "Lee, Erika ",2025-01-22,4
@@ -528,97 +534,112 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "Lee, Erika ",2025-01-24,4
 "Lee, Erika ",2025-01-25,1
 "Lee, Erika ",2025-01-29,8
-"Lee, Erika ",2025-01-30,6
+"Lee, Erika ",2025-01-30,8
 "Lee, Erika ",2025-01-31,3
-"Lopez, Cristina Ruiz",2025-01-06,13
-"Lopez, Cristina Ruiz",2025-01-07,13
+"Lopez, Cristina Ruiz",2025-01-06,16
+"Lopez, Cristina Ruiz",2025-01-07,29
 "Lopez, Cristina Ruiz",2025-01-07,1
+"Lopez, Cristina Ruiz",2025-01-13,10
+"Lopez, Cristina Ruiz",2025-01-14,1
+"Lopez, Cristina Ruiz",2025-01-14,5
 "Lopez, Cristina Ruiz",2025-01-20,1
-"MILLET, VICTORIA ",2025-01-10,6
-"MILLET, VICTORIA ",2025-01-17,4
+"Lopez, Cristina Ruiz",2025-01-21,1
+"Lopez, Cristina Ruiz",2025-01-28,1
+"MILLET, VICTORIA ",2025-01-10,12
+"MILLET, VICTORIA ",2025-01-17,5
 "MILLET, VICTORIA ",2025-01-24,2
 "MILLET, VICTORIA ",2025-01-31,4
-"McGuire, Casie ",2025-01-08,7
 "McGuire, Casie ",2025-01-09,4
 "McGuire, Casie ",2025-01-13,11
-"McGuire, Casie ",2025-01-15,1
+"McGuire, Casie ",2025-01-15,2
+"McGuire, Casie ",2025-01-16,1
 "McGuire, Casie ",2025-01-22,2
 "McGuire, Casie ",2025-01-27,1
 "McGuire, Casie ",2025-01-30,1
 "Michels, Savannah ",2025-01-06,26
-"Michels, Savannah ",2025-01-07,4
-"Michels, Savannah ",2025-01-08,3
-"Michels, Savannah ",2025-01-09,3
-"Michels, Savannah ",2025-01-10,3
-"Michels, Savannah ",2025-01-13,7
+"Michels, Savannah ",2025-01-07,19
+"Michels, Savannah ",2025-01-08,9
+"Michels, Savannah ",2025-01-09,17
+"Michels, Savannah ",2025-01-10,10
+"Michels, Savannah ",2025-01-13,11
 "Michels, Savannah ",2025-01-14,7
-"Michels, Savannah ",2025-01-15,3
-"Michels, Savannah ",2025-01-16,3
+"Michels, Savannah ",2025-01-15,5
+"Michels, Savannah ",2025-01-16,4
 "Michels, Savannah ",2025-01-17,4
 "Michels, Savannah ",2025-01-20,3
 "Michels, Savannah ",2025-01-21,2
 "Michels, Savannah ",2025-01-22,3
+"Michels, Savannah ",2025-01-23,1
 "Michels, Savannah ",2025-01-27,1
 "Michels, Savannah ",2025-01-29,1
 "Michels, Savannah ",2025-01-30,5
+"Michels, Savannah ",2025-01-31,1
 "Minassian, Guiragos S",2025-01-15,2
 "Minassian, Guiragos S",2025-01-16,1
-"NAT, NARINDAR ",2025-01-06,28
-"NAT, NARINDAR ",2025-01-07,14
-"NAT, NARINDAR ",2025-01-08,4
-"NAT, NARINDAR ",2025-01-09,1
-"NAT, NARINDAR ",2025-01-10,4
-"NAT, NARINDAR ",2025-01-11,9
-"NAT, NARINDAR ",2025-01-13,4
-"NAT, NARINDAR ",2025-01-14,1
+"NAT, NARINDAR ",2025-01-06,31
+"NAT, NARINDAR ",2025-01-07,28
+"NAT, NARINDAR ",2025-01-08,16
+"NAT, NARINDAR ",2025-01-09,18
+"NAT, NARINDAR ",2025-01-10,14
+"NAT, NARINDAR ",2025-01-11,28
+"NAT, NARINDAR ",2025-01-13,6
+"NAT, NARINDAR ",2025-01-14,3
 "NAT, NARINDAR ",2025-01-17,4
-"NAT, NARINDAR ",2025-01-18,3
+"NAT, NARINDAR ",2025-01-18,7
 "NAT, NARINDAR ",2025-01-20,2
 "NAT, NARINDAR ",2025-01-24,2
-"NAT, NARINDAR ",2025-01-25,1
+"NAT, NARINDAR ",2025-01-25,3
+"NAT, NARINDAR ",2025-01-27,1
 "NAT, NARINDAR ",2025-01-29,2
-"Ngu, Mealynne ",2025-01-06,15
-"Ngu, Mealynne ",2025-01-07,3
-"Ngu, Mealynne ",2025-01-08,2
+"Ngu, Mealynne ",2025-01-06,16
+"Ngu, Mealynne ",2025-01-07,14
+"Ngu, Mealynne ",2025-01-08,4
+"Ngu, Mealynne ",2025-01-09,11
 "Ngu, Mealynne ",2025-01-13,1
 "Ngu, Mealynne ",2025-01-16,2
 "Ngu, Mealynne ",2025-01-16,2
+"Ngu, Mealynne ",2025-01-17,1
+"Ngu, Mealynne ",2025-01-21,1
 "Ngu, Mealynne ",2025-01-24,1
 "Ngu, Mealynne ",2025-01-29,1
 "Ngu, Mealynne ",2025-01-30,3
 "Ngu, Mealynne ",2025-01-31,5
-"Njie, Ernestine ",2025-01-07,4
-"Njie, Ernestine ",2025-01-08,3
-"Njie, Ernestine ",2025-01-09,2
+"Njie, Ernestine ",2025-01-07,13
+"Njie, Ernestine ",2025-01-08,7
+"Njie, Ernestine ",2025-01-09,3
+"Njie, Ernestine ",2025-01-14,1
+"Njie, Ernestine ",2025-01-15,1
 "Njie, Ernestine ",2025-01-16,1
-"Patel, Sonal ",2025-01-15,3
-"Patino, Cecilia ",2025-01-06,31
-"Patino, Cecilia ",2025-01-07,19
-"Patino, Cecilia ",2025-01-08,2
-"Patino, Cecilia ",2025-01-09,7
-"Patino, Cecilia ",2025-01-10,12
-"Patino, Cecilia ",2025-01-13,12
-"Patino, Cecilia ",2025-01-14,3
-"Patino, Cecilia ",2025-01-15,1
+"Njie, Ernestine ",2025-01-28,1
+"Patel, Sonal ",2025-01-15,4
+"Patino, Cecilia ",2025-01-06,32
+"Patino, Cecilia ",2025-01-07,29
+"Patino, Cecilia ",2025-01-08,6
+"Patino, Cecilia ",2025-01-10,1
+"Patino, Cecilia ",2025-01-13,17
+"Patino, Cecilia ",2025-01-14,13
+"Patino, Cecilia ",2025-01-15,4
 "Patino, Cecilia ",2025-01-16,3
 "Patino, Cecilia ",2025-01-17,5
-"Patino, Cecilia ",2025-01-20,3
-"Patino, Cecilia ",2025-01-21,1
+"Patino, Cecilia ",2025-01-20,5
+"Patino, Cecilia ",2025-01-21,5
 "Patino, Cecilia ",2025-01-22,2
 "Patino, Cecilia ",2025-01-27,1
 "Patino, Cecilia ",2025-01-29,2
-"Pensanti, Helen ",2025-01-11,10
-"Pensanti, Helen ",2025-01-25,4
-"Petalver, Oliver ",2025-01-06,24
-"Petalver, Oliver ",2025-01-07,28
-"Petalver, Oliver ",2025-01-09,6
-"Petalver, Oliver ",2025-01-10,7
-"Petalver, Oliver ",2025-01-13,15
-"Petalver, Oliver ",2025-01-14,2
+"Pensanti, Helen ",2025-01-25,5
+"Petalver, Oliver ",2025-01-06,26
+"Petalver, Oliver ",2025-01-07,29
+"Petalver, Oliver ",2025-01-08,13
+"Petalver, Oliver ",2025-01-09,4
+"Petalver, Oliver ",2025-01-10,25
+"Petalver, Oliver ",2025-01-11,1
+"Petalver, Oliver ",2025-01-13,17
+"Petalver, Oliver ",2025-01-14,6
 "Petalver, Oliver ",2025-01-16,2
-"Petalver, Oliver ",2025-01-17,9
+"Petalver, Oliver ",2025-01-17,11
 "Petalver, Oliver ",2025-01-20,20
-"Petalver, Oliver ",2025-01-21,2
+"Petalver, Oliver ",2025-01-21,4
+"Petalver, Oliver ",2025-01-23,1
 "Petalver, Oliver ",2025-01-24,3
 "Petalver, Oliver ",2025-01-25,1
 "Petalver, Oliver ",2025-01-27,28
@@ -626,16 +647,19 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "Petalver, Oliver ",2025-01-29,3
 "Petalver, Oliver ",2025-01-30,2
 "Petalver, Oliver ",2025-01-31,1
-"Pison, Tisha ",2025-01-08,20
-"Pison, Tisha ",2025-01-09,3
-"Pison, Tisha ",2025-01-14,1
-"Pison, Tisha ",2025-01-15,1
-"Pison, Tisha ",2025-01-21,1
+"Pison, Tisha ",2025-01-08,23
+"Pison, Tisha ",2025-01-09,31
+"Pison, Tisha ",2025-01-15,4
+"Pison, Tisha ",2025-01-16,6
 "Pison, Tisha ",2025-01-22,1
 "Pison, Tisha ",2025-01-30,1
-"REYES, TRISH ",2025-01-06,4
-"RODRIGUEZ, BARBARA ",2025-01-06,27
-"RODRIGUEZ, BARBARA ",2025-01-13,9
+"REYES, TRISH ",2025-01-06,8
+"REYES, TRISH ",2025-01-07,9
+"REYES, TRISH ",2025-01-08,2
+"REYES, TRISH ",2025-01-09,17
+"REYES, TRISH ",2025-01-10,2
+"RODRIGUEZ, BARBARA ",2025-01-06,26
+"RODRIGUEZ, BARBARA ",2025-01-13,12
 "RODRIGUEZ, BARBARA ",2025-01-16,6
 "RODRIGUEZ, BARBARA ",2025-01-20,8
 "RODRIGUEZ, BARBARA ",2025-01-21,1
@@ -643,47 +667,51 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "RODRIGUEZ, BARBARA ",2025-01-27,3
 "RODRIGUEZ, BARBARA ",2025-01-30,6
 "Ramanan, Sharmetha ",2025-01-29,1
-"SHELAT, PALAK ",2025-01-07,2
-"SHELAT, PALAK ",2025-01-08,12
-"SHELAT, PALAK ",2025-01-09,13
-"SHELAT, PALAK ",2025-01-10,8
-"SHELAT, PALAK ",2025-01-14,3
-"SHELAT, PALAK ",2025-01-15,4
-"SHELAT, PALAK ",2025-01-16,6
+"SHELAT, PALAK ",2025-01-08,20
+"SHELAT, PALAK ",2025-01-09,32
+"SHELAT, PALAK ",2025-01-10,26
+"SHELAT, PALAK ",2025-01-11,1
+"SHELAT, PALAK ",2025-01-14,7
+"SHELAT, PALAK ",2025-01-15,5
+"SHELAT, PALAK ",2025-01-16,10
 "SHELAT, PALAK ",2025-01-17,1
+"SHELAT, PALAK ",2025-01-18,5
 "SHELAT, PALAK ",2025-01-23,5
 "SHELAT, PALAK ",2025-01-23,1
 "SHELAT, PALAK ",2025-01-24,1
 "SHELAT, PALAK ",2025-01-28,1
 "SHELAT, PALAK ",2025-01-29,2
 "SHELAT, PALAK ",2025-01-30,3
-"SNYDER, MARK ",2025-01-06,34
+"SNYDER, MARK ",2025-01-06,35
 "SNYDER, MARK ",2025-01-06,1
-"SNYDER, MARK ",2025-01-07,10
-"SNYDER, MARK ",2025-01-08,21
-"SNYDER, MARK ",2025-01-09,12
-"SNYDER, MARK ",2025-01-10,9
-"SNYDER, MARK ",2025-01-13,3
-"SNYDER, MARK ",2025-01-14,2
-"SNYDER, MARK ",2025-01-15,5
-"SNYDER, MARK ",2025-01-16,4
-"SNYDER, MARK ",2025-01-17,7
+"SNYDER, MARK ",2025-01-07,25
+"SNYDER, MARK ",2025-01-08,26
+"SNYDER, MARK ",2025-01-09,24
+"SNYDER, MARK ",2025-01-10,19
+"SNYDER, MARK ",2025-01-13,5
+"SNYDER, MARK ",2025-01-14,3
+"SNYDER, MARK ",2025-01-15,9
+"SNYDER, MARK ",2025-01-16,6
+"SNYDER, MARK ",2025-01-17,9
 "SNYDER, MARK ",2025-01-20,3
 "SNYDER, MARK ",2025-01-21,1
-"SNYDER, MARK ",2025-01-23,2
+"SNYDER, MARK ",2025-01-22,2
+"SNYDER, MARK ",2025-01-23,5
 "SNYDER, MARK ",2025-01-24,2
 "SNYDER, MARK ",2025-01-27,3
 "SNYDER, MARK ",2025-01-29,2
 "SNYDER, MARK ",2025-01-30,3
 "Saenz, Erik ",2025-01-06,1
-"Saenz, Erik ",2025-01-06,27
-"Saenz, Erik ",2025-01-07,6
-"Saenz, Erik ",2025-01-09,3
-"Saenz, Erik ",2025-01-10,9
-"Saenz, Erik ",2025-01-13,6
-"Saenz, Erik ",2025-01-14,1
+"Saenz, Erik ",2025-01-06,1
+"Saenz, Erik ",2025-01-06,28
+"Saenz, Erik ",2025-01-07,28
+"Saenz, Erik ",2025-01-08,11
+"Saenz, Erik ",2025-01-09,15
+"Saenz, Erik ",2025-01-10,14
+"Saenz, Erik ",2025-01-13,9
+"Saenz, Erik ",2025-01-14,6
 "Saenz, Erik ",2025-01-16,2
-"Saenz, Erik ",2025-01-17,2
+"Saenz, Erik ",2025-01-17,3
 "Saenz, Erik ",2025-01-20,2
 "Saenz, Erik ",2025-01-21,1
 "Saenz, Erik ",2025-01-22,2
@@ -692,30 +720,30 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "Saenz, Erik ",2025-01-27,5
 "Saenz, Erik ",2025-01-30,4
 "Saenz, Erik ",2025-01-31,1
-"Sahba, Ahoo ",2025-01-11,5
+"Sahba, Ahoo ",2025-01-11,7
 "Sahba, Ahoo ",2025-01-18,4
 "Sahba, Ahoo ",2025-01-25,4
-"Sakhai, Yussef ",2025-01-06,22
-"Sakhai, Yussef ",2025-01-07,5
-"Sakhai, Yussef ",2025-01-09,5
-"Sakhai, Yussef ",2025-01-10,1
-"Sakhai, Yussef ",2025-01-13,3
-"Sakhai, Yussef ",2025-01-14,2
-"Sakhai, Yussef ",2025-01-16,1
+"Sakhai, Yussef ",2025-01-06,26
+"Sakhai, Yussef ",2025-01-07,17
+"Sakhai, Yussef ",2025-01-09,7
+"Sakhai, Yussef ",2025-01-10,7
+"Sakhai, Yussef ",2025-01-13,5
+"Sakhai, Yussef ",2025-01-14,6
+"Sakhai, Yussef ",2025-01-16,5
 "Sakhai, Yussef ",2025-01-20,2
 "Sakhai, Yussef ",2025-01-21,1
 "Sakhai, Yussef ",2025-01-27,1
 "Sakhai, Yussef ",2025-01-28,2
 "Sakhai, Yussef ",2025-01-29,1
-"Samra, Banpreet ",2025-01-06,34
-"Samra, Banpreet ",2025-01-07,10
-"Samra, Banpreet ",2025-01-08,11
-"Samra, Banpreet ",2025-01-09,6
-"Samra, Banpreet ",2025-01-10,14
-"Samra, Banpreet ",2025-01-13,7
-"Samra, Banpreet ",2025-01-14,4
-"Samra, Banpreet ",2025-01-15,11
-"Samra, Banpreet ",2025-01-17,4
+"Samra, Banpreet ",2025-01-06,33
+"Samra, Banpreet ",2025-01-07,29
+"Samra, Banpreet ",2025-01-08,17
+"Samra, Banpreet ",2025-01-09,24
+"Samra, Banpreet ",2025-01-10,27
+"Samra, Banpreet ",2025-01-13,18
+"Samra, Banpreet ",2025-01-14,11
+"Samra, Banpreet ",2025-01-15,13
+"Samra, Banpreet ",2025-01-17,3
 "Samra, Banpreet ",2025-01-20,11
 "Samra, Banpreet ",2025-01-21,2
 "Samra, Banpreet ",2025-01-22,6
@@ -725,10 +753,9 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "Samra, Banpreet ",2025-01-28,1
 "Samra, Banpreet ",2025-01-30,3
 "Samra, Banpreet ",2025-01-31,4
-"Sohn, Alea Nicole",2025-01-06,4
-"Sohn, Alea Nicole",2025-01-07,3
-"Sohn, Alea Nicole",2025-01-08,1
-"Sohn, Alea Nicole",2025-01-10,1
+"Sohn, Alea Nicole",2025-01-06,12
+"Sohn, Alea Nicole",2025-01-07,12
+"Sohn, Alea Nicole",2025-01-09,13
 "Sohn, Alea Nicole",2025-01-13,2
 "Sohn, Alea Nicole",2025-01-14,1
 "Sohn, Alea Nicole",2025-01-20,4
@@ -739,11 +766,12 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "Sohn, Alea Nicole",2025-01-28,1
 "Sutter, Miguel A",2025-01-18,1
 "Tam, Cze-Ja ",2025-01-06,16
-"Tam, Cze-Ja ",2025-01-07,3
-"Tam, Cze-Ja ",2025-01-08,3
-"Tam, Cze-Ja ",2025-01-09,4
+"Tam, Cze-Ja ",2025-01-07,8
+"Tam, Cze-Ja ",2025-01-08,5
+"Tam, Cze-Ja ",2025-01-09,10
 "Tam, Cze-Ja ",2025-01-13,6
 "Tam, Cze-Ja ",2025-01-14,1
+"Tam, Cze-Ja ",2025-01-15,1
 "Tam, Cze-Ja ",2025-01-16,4
 "Tam, Cze-Ja ",2025-01-21,2
 "Tam, Cze-Ja ",2025-01-23,1
@@ -751,78 +779,82 @@ Appointment / Servicing Provider,Appointment Date,Patient Count
 "Tam, Cze-Ja ",2025-01-28,2
 "Tam, Cze-Ja ",2025-01-29,3
 "Tamashiro, Victor ",2025-01-06,43
-"Tamashiro, Victor ",2025-01-07,30
-"Tamashiro, Victor ",2025-01-08,19
-"Tamashiro, Victor ",2025-01-09,12
-"Tamashiro, Victor ",2025-01-10,12
-"Tamashiro, Victor ",2025-01-13,3
-"Tamashiro, Victor ",2025-01-14,1
-"Tamashiro, Victor ",2025-01-15,7
-"Tamashiro, Victor ",2025-01-16,1
-"Tamashiro, Victor ",2025-01-17,7
-"Tamashiro, Victor ",2025-01-20,10
-"Tamashiro, Victor ",2025-01-21,2
-"Tamashiro, Victor ",2025-01-22,3
-"Tamashiro, Victor ",2025-01-23,7
+"Tamashiro, Victor ",2025-01-07,35
+"Tamashiro, Victor ",2025-01-07,1
+"Tamashiro, Victor ",2025-01-08,31
+"Tamashiro, Victor ",2025-01-09,27
+"Tamashiro, Victor ",2025-01-10,24
+"Tamashiro, Victor ",2025-01-13,11
+"Tamashiro, Victor ",2025-01-14,2
+"Tamashiro, Victor ",2025-01-15,8
+"Tamashiro, Victor ",2025-01-16,3
+"Tamashiro, Victor ",2025-01-17,8
+"Tamashiro, Victor ",2025-01-20,20
+"Tamashiro, Victor ",2025-01-21,5
+"Tamashiro, Victor ",2025-01-22,5
+"Tamashiro, Victor ",2025-01-23,8
 "Tamashiro, Victor ",2025-01-24,6
-"Tamashiro, Victor ",2025-01-27,8
+"Tamashiro, Victor ",2025-01-27,9
 "Tamashiro, Victor ",2025-01-28,1
 "Tamashiro, Victor ",2025-01-29,1
+"Tamashiro, Victor ",2025-01-30,1
 "Tamashiro, Victor ",2025-01-31,1
-"Taylor, Carol ",2025-01-06,28
-"Taylor, Carol ",2025-01-07,23
-"Taylor, Carol ",2025-01-08,14
-"Taylor, Carol ",2025-01-09,9
-"Taylor, Carol ",2025-01-13,2
-"Taylor, Carol ",2025-01-14,4
+"Taylor, Carol ",2025-01-06,26
+"Taylor, Carol ",2025-01-07,30
+"Taylor, Carol ",2025-01-08,22
+"Taylor, Carol ",2025-01-09,20
+"Taylor, Carol ",2025-01-11,5
+"Taylor, Carol ",2025-01-13,13
 "Taylor, Carol ",2025-01-15,4
-"Taylor, Carol ",2025-01-16,2
+"Taylor, Carol ",2025-01-16,4
 "Taylor, Carol ",2025-01-20,1
+"Taylor, Carol ",2025-01-25,2
 "UKWU, RACHEL BARBOUR",2025-01-20,1
-"Ungs, Carolina ",2025-01-06,34
-"Ungs, Carolina ",2025-01-07,11
-"Ungs, Carolina ",2025-01-08,8
-"Ungs, Carolina ",2025-01-13,4
-"Ungs, Carolina ",2025-01-14,1
-"Ungs, Carolina ",2025-01-16,5
+"Ungs, Carolina ",2025-01-06,35
+"Ungs, Carolina ",2025-01-07,22
+"Ungs, Carolina ",2025-01-08,12
+"Ungs, Carolina ",2025-01-09,17
+"Ungs, Carolina ",2025-01-13,5
+"Ungs, Carolina ",2025-01-14,2
+"Ungs, Carolina ",2025-01-15,3
+"Ungs, Carolina ",2025-01-16,6
+"Ungs, Carolina ",2025-01-20,1
 "Ungs, Carolina ",2025-01-21,4
-"Ungs, Carolina ",2025-01-27,2
+"Ungs, Carolina ",2025-01-23,3
+"Ungs, Carolina ",2025-01-27,1
 "Ungs, Carolina ",2025-01-28,2
 "Ungs, Carolina ",2025-01-29,1
 "Ungs, Carolina ",2025-01-30,3
 "Ungs, Carolina ",2025-01-30,1
 "VARGAS, JOSE ",2025-01-06,8
-"VARGAS, JOSE ",2025-01-07,1
-"VARGAS, JOSE ",2025-01-07,13
-"VARGAS, JOSE ",2025-01-08,9
-"VARGAS, JOSE ",2025-01-09,8
-"VARGAS, JOSE ",2025-01-10,16
-"VARGAS, JOSE ",2025-01-13,4
-"VARGAS, JOSE ",2025-01-13,11
-"VARGAS, JOSE ",2025-01-14,1
+"VARGAS, JOSE ",2025-01-07,31
+"VARGAS, JOSE ",2025-01-08,17
+"VARGAS, JOSE ",2025-01-09,30
+"VARGAS, JOSE ",2025-01-10,27
+"VARGAS, JOSE ",2025-01-13,18
+"VARGAS, JOSE ",2025-01-14,5
 "VARGAS, JOSE ",2025-01-15,1
-"VARGAS, JOSE ",2025-01-15,4
+"VARGAS, JOSE ",2025-01-15,10
 "VARGAS, JOSE ",2025-01-16,8
 "VARGAS, JOSE ",2025-01-17,8
-"VARGAS, JOSE ",2025-01-20,11
+"VARGAS, JOSE ",2025-01-20,17
 "VARGAS, JOSE ",2025-01-22,3
-"VARGAS, JOSE ",2025-01-23,2
+"VARGAS, JOSE ",2025-01-23,3
 "VARGAS, JOSE ",2025-01-24,12
 "VARGAS, JOSE ",2025-01-27,9
 "VARGAS, JOSE ",2025-01-28,1
 "VARGAS, JOSE ",2025-01-29,6
 "VARGAS, JOSE ",2025-01-30,2
 "VARGAS, JOSE ",2025-01-31,4
-"Vega, Maria ",2025-01-07,5
-"Vega, Maria ",2025-01-10,6
-"Vega, Maria ",2025-01-14,1
-"Vega, Maria ",2025-01-17,8
-"Vega, Maria ",2025-01-21,2
+"Vega, Maria ",2025-01-07,23
+"Vega, Maria ",2025-01-10,19
+"Vega, Maria ",2025-01-14,4
+"Vega, Maria ",2025-01-17,12
+"Vega, Maria ",2025-01-21,3
 "Vega, Maria ",2025-01-24,1
 "Vega, Maria ",2025-01-28,1
 "Vega, Maria ",2025-01-30,2
-"Zuniga, Jocelyn ",2025-01-06,30
-"Zuniga, Jocelyn ",2025-01-07,11
-"Zuniga, Jocelyn ",2025-01-08,3
+"Zuniga, Jocelyn ",2025-01-06,31
+"Zuniga, Jocelyn ",2025-01-07,24
+"Zuniga, Jocelyn ",2025-01-08,14
 "Zuniga, Jocelyn ",2025-01-14,1
-"Zuniga, Jocelyn ",2025-01-29,1
